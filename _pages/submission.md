@@ -56,7 +56,7 @@ OpenReview’s moderation policy for newly created profiles:
 <!-- Authors of accepted abstracts are invited to present their work in the form of a poster during the workshop days or to submit a pre-recorded video -->
 
 ## Submission Format
-Submitted extended abstracts should have at most **2 pages** with unlimited bibliography and appendix. Below are the LaTeX template files:
+We recommend that submitted extended abstracts have **one page**. However, you are allowed to use up to a maximum of two pages. You are allowed to use an unlimited amount of space for bibliography and appendices. Below are the LaTeX template files:
 
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.tex">hraim_2024.tex</a> - LaTeX template
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.sty">hraim_2024.sty</a> - LaTeX style file
