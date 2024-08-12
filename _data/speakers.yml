@@ -13,6 +13,19 @@
       link: https://www.ploughshares.ca/author/branka-marijan
   skip: True
 
+- fullname: Sarah Grand-Clément (She/Her)
+  affiliations: 
+  - United Nations Institute for Disarmament Research (UNIDIR)
+  position: Researcher
+  bio: "Sarah Grand-Clément is a Researcher in the Security and Technology Programme and the Conventional Arms and Ammunition Programme of the United Nations Institute for Disarmament Research (UNIDIR). Her work examines the intersection of technology with conventional arms, exploring both the challenges and threats that technology can pose to international security, as well as the benefits it can bring to prevent violent conflict and enable peace. Sarah also has a particular interest in the use of futures methodologies as a way to help explore these complex policy issues, with expertise in horizon scanning, serious gaming and future scenarios. Prior to joining UNIDIR, Sarah was a Senior Analyst working on defence and security policy issues at RAND Europe. She holds an MSc in Arab World Studies from Durham University."
+  photo: Sarah_Grand_Clement.jpg
+  alttext: Sarah Grand-Clément
+  tags:
+    - name: Website
+      link: https://unidir.org/people/sarah-grand-clement/
+  skip: False
+
+
 - fullname: Elina Noor (She/Her)
   affiliations: 
   - Asia Program at Carnegie
@@ -36,18 +49,15 @@
 
 - fullname: Bernard Duhaime (He/Him)
   affiliations: 
-  - Faculty of Law and Political Science
   - University of Quebec in Montreal
   position: Professor of International Law
-  bio: "He teaches international human rights law and the Inter-American System of Protection of Human Rights. He also serves
-  as a member of the Working group on enforced or involuntary disappearances reporting to the United Nations Human Rights
-  Council. Bernard is invited to give a talk on implications of military AI on human rights."
-  photo: bernard.jpg
+  bio: "As a professor of International Law, Bernard teaches international human rights law and the Inter-American System of Protection of Human Rights. He also serves as a member of the Working group on enforced or involuntary disappearances reporting to the United Nations Human Rights Council. Bernard Duhaime is a Fellow of the Pierre Elliott Trudeau Foundation (2017-2021). Previously, Duhaime was a lawyer at the Inter-American Commission on Human Rights of the OAS. He founded the Clinique Internationale de Défense des Droits Humains de l'UQAM and was its first director."
+  photo: bernard.png
   alttext: Prof. Bernard Duhaime
   tags:
     - name: Website
-      link: https://professeurs.uqam.ca/professeur/duhaime.bernard/
-  skip: True
+      link: https://www.humanrightsnetwork.org/bernard-duhaime
+  skip: False
 
 - fullname: Aaron Luttman (He/Him)
   affiliations: 
