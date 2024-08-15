@@ -62,6 +62,9 @@ We recommend that submitted extended abstracts have **one page**. However, you a
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.sty">hraim_2024.sty</a> - LaTeX style file
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.pdf">hraim_2024.pdf</a> - Example pdf file
 
+For authors submitting using a word processor, such as Microsoft Word, please find below the instructions:
+- <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024_word.pdf">hraim_2024_word.pdf</a> - word instructions
+
 Submissions must be **anonymous** by using the default `\usepackage{hraim_2024}` command provided in the LaTeX template file. Reviews are double-blind: submissions revealing the authors’ identities will be automatically rejected. Accepted submissions are considered non-archival and can be submitted to other workshops, conferences or journals if their submission policy allows.  
 
 ## Dual Submission Policy
