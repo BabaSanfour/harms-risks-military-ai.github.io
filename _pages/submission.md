@@ -17,7 +17,7 @@ permalink: /submission
 ---
 
 # Author and Submission Instructions
-We invite you to submit extended abstracts for the opportunity to present a poster at the workshop. Submissions will be handled electronically via OpenReview. You will be asked to create an OpenReview account if you do not already have one. All submissions must be written in English. Authors of selected submissions will be invited to give a short talk.
+We invite you to submit extended abstracts for the opportunity to present a poster at the workshop. Extended abstracts can be about any **past or novel completed work, or ongoing work**. Submissions will be handled electronically via OpenReview. You will be asked to create an OpenReview account if you do not already have one. All submissions must be written in English. Authors of selected submissions will be invited to give a short talk.
 
 <!-- add instrcutions -->
 <!-- Please use the -->
@@ -61,6 +61,9 @@ We recommend that submitted extended abstracts have **one page**. However, you a
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.tex">hraim_2024.tex</a> - LaTeX template
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.sty">hraim_2024.sty</a> - LaTeX style file
 - <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024.pdf">hraim_2024.pdf</a> - Example pdf file
+
+For authors submitting using a word processor, such as Microsoft Word, please find below the instructions:
+- <a href="https://www.harms-risks-ai-military.org/assets/author_templates/hraim_2024_word.pdf">hraim_2024_word.pdf</a> - word instructions
 
 Submissions must be **anonymous** by using the default `\usepackage{hraim_2024}` command provided in the LaTeX template file. Reviews are double-blind: submissions revealing the authors’ identities will be automatically rejected. Accepted submissions are considered non-archival and can be submitted to other workshops, conferences or journals if their submission policy allows.  
 
