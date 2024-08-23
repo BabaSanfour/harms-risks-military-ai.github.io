@@ -1,13 +1,13 @@
 - name: Registration
   time_start: "09:00"
   time_end: "09:30"
-- name: Opening remarks by the organizers
+- name: Opening remarks
   time_start: "09:30"
   time_end: "09:45"
-- name: "Keynote talk providing an overview of AI systems used for military purposes and their capabilities"
+- name: "Keynote talk - Sarah Grand-Clément"
   time_start: "09:45"
   time_end: "10:30"
-- name: "Keynote talk about the regulations of military AI and autonomous weapons systems: current state of the global political discussions"
+- name: "Keynote talk - Branka Marijan"
   time_start: "10:30"
   time_end: "11:15"
 - name: Coffee break
@@ -21,13 +21,13 @@
   time_end: "13:45"
 - name: Poster session
   time_start: "13:45"
-  time_end: "15:15"
-- name: "Panel discussion about military AI and the associated arms race: impacts on global security, immediate efforts taking place to address them, and governance challenges to AI demilitarization. Possible technical and governance solutions for the near (5-10 years) future"
-  time_start: "15:15"
-  time_end: "16:30"
-- name: Coffee break
-  time_start: "16:30"
-  time_end: "16:45"
+  time_end: "15:00"
+- name: "Keynote talk - TBD"
+  time_start: "15:00"
+  time_end: "15:45"
+- name: "Panel: Technical solutions for mitigating risks of military AI"
+  time_start: "15:45"
+  time_end: "17:00"
 - name: "Social activity"
-  time_start: "16:45"
-  time_end: "17:45"
+  time_start: "17:00"
+  time_end: "18:30"
