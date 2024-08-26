@@ -12,6 +12,9 @@
       link: https://www.ploughshares.ca/author/branka-marijan
   skip: False
 
+
+
+
 - fullname: Sarah Grand-Clément (She/Her)
   affiliations: 
   - United Nations Institute for Disarmament Research (UNIDIR)
@@ -56,6 +59,17 @@
   tags:
     - name: Website
       link: https://www.humanrightsnetwork.org/bernard-duhaime
+  skip: False
+- fullname: Paul Lushenko (He/Him)
+  affiliations: 
+  - US Army
+  - US Army War College
+  nametitle: Dr.
+  position: Lieutenant Colonel · Assistant Professor
+  bio: "Paul Lushenko is a Lieutenant Colonel in the US Army, an Assistant Professor at the US Army War College, and Strategist for the Joint Counter-Small Unmanned Aircraft Systems Office. He is also a Professorial Lecturer at George Washington University's Elliott School of International Affairs, Council on Foreign Relations Term Member, Senior Fellow at Cornell University's Tech Policy Institute and Institute of Politics and Global Affairs, and Non-Resident Expert at RegulatingAI. His work lies at the intersection of emerging technologies, politics, and national security, and he also researches the implications of great power competition for regional and global order-building. Paul is the author and editor of three books, including Drones and Global Order: Implications of Remote Warfare for International Society (2022), The Legitimacy of Drone Warfare: Evaluating Public Perceptions (2024), and Afghanistan and International Relations (under contract). Paul has written extensively on emerging technologies and war, publishing in academic journals, policy journals, and media outlets such as Security Studies, Foreign Affairs, and The Washington Post. He earned his Ph.D. and M.A. in International Relations from Cornell University. He also holds an M.A. in Defense and Strategic Studies from the U.S. Naval War College, an M.A. in International Relations and a Master of Diplomacy from The Australian National University, and a B.S. from the U.S. Military Academy."
+  photo: paul.jpg
+  alttext: Lieutenant Colonel Paul Lushenko
+  tags:
   skip: False
 
 - fullname: Aaron Luttman (He/Him)
