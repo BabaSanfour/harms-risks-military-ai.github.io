@@ -5,7 +5,7 @@ subtitle: A cross-disciplinary workshop fostering an open and inclusive discussi
 toc: false
 ---
 
-Save the date! Join us **in person** or **virtually** on **Dec 2-3** at **Mila - Quebec AI Institute, Montreal**. Registration is not open yet, please follow us on [Twitter](https://twitter.com/HarmsRisksAIM) for announcements.
+Save the date! Join us **in person** or **virtually** on **Dec 2-3** at **Mila - Quebec AI Institute, Montreal**. Registration is not open yet, please follow us on [Twitter](https://twitter.com/HarmsRisksAIM) for announcements. You can still submit an abstract after reading the [instructions](https://www.harms-risks-ai-military.org/submission.html) by clicking on the button at the bottom right. 
 
 {% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
 
