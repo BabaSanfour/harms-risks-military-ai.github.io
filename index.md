@@ -5,7 +5,7 @@ subtitle: A cross-disciplinary workshop fostering an open and inclusive discussi
 toc: false
 ---
 
-Save the date! Join us **in person** or **virtually** on **Dec 2-3** at **Mila - Quebec AI Institute, Montreal**. 
+Save the date! Join us **in person** or **virtually** on **Dec 2-3** at **Mila - Quebec AI Institute, Montreal**. Registration is not open yet, please follow us on [Twitter](https://twitter.com/HarmsRisksAIM) for announcements.
 
 {% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
 
