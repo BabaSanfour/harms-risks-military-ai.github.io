@@ -6,11 +6,11 @@ permalink: /submission
 ---
 # Important Dates
 <!-- add Update dates -->
-- Extended abstract submission deadline: Monday, September 16, 2024 (23:59 GMT)
+- Extended abstract submission deadline: Monday, ~~September 16~~ September 23, 2024 (23:59 GMT)
 
-- Reviews submission deadline: Monday, September 30, 2024 (23:59 GMT)
+- Reviews submission deadline: Monday, ~~September 30~~ October 7, 2024 (23:59 GMT)
 
-- Author notification: Monday, October 7, 2024
+- Author notification: Monday, ~~October 7~~ October 14, 2024
 
 - Workshop (hybrid): Monday, December 2, 2024 and Tuesday, December 3, 2024.
 
