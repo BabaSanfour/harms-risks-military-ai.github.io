@@ -60,6 +60,19 @@
     - name: Website
       link: https://www.humanrightsnetwork.org/bernard-duhaime
   skip: False
+
+- fullname: Jonathan Horowitz (He/Him)
+  affiliations: 
+  - International Committee of the Red Cross (ICRC)
+  position: deputy head of the legal department
+  bio: "Jonathan is the deputy head of the legal department to the ICRC's Delegation for the United States and Canada, based in Washington, D.C. He focuses on legal issues relating to urban warfare, partnered military operations, and new and emerging technologies in armed conflict, including information operations. In this role, he engages with the U.S. and Canadian governments, as well as private technology companies and others. His latest publication is “One Click from Conflict: Some Legal Considerations Related to Technology Companies Providing Digital Services in Situations of Armed Conflict” (Chicago Journal of International Law, Vol. 24.2)."
+  photo: jonathan.png
+  alttext: Jonathan Horowitz
+  tags:
+    - name: Website
+      link: https://blogs.icrc.org/law-and-policy/contributor/jonathan-horowitz/
+  skip: False
+
 - fullname: Paul Lushenko (He/Him)
   affiliations: 
   - US Army
