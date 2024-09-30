@@ -10,7 +10,7 @@
 - name: "Coffee break"
   time_start: "10:30"
   time_end: "10:45"
-- name: "Panel: Governance of AI applications in the military"
+- name: "Panel: Technical issues and responses to the risks and harms of the use of AI in the military"
   time_start: "10:45"
   time_end: "12:00"
 - name: "Lunch break"

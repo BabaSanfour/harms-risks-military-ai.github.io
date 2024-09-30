@@ -25,7 +25,7 @@
 - name: "Keynote talk - TBD"
   time_start: "15:00"
   time_end: "15:45"
-- name: "Panel: Technical solutions for mitigating risks of military AI"
+- name: "Panel: Governance of AI applications in the military"
   time_start: "15:45"
   time_end: "17:00"
 - name: "Social activity"
