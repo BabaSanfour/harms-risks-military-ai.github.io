@@ -16,7 +16,7 @@
 - name: "Lunch break"
   time_start: "12:00"
   time_end: "13:30"
-- name: "Keynote talk - ICRC"
+- name: "Keynote talk - Jonathan Horowitz"
   time_start: "13:30"
   time_end: "14:15"
 - name: "Panel: Role of technical experts in AI militarization and disarmament"
