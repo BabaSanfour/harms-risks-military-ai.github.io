@@ -86,6 +86,19 @@
       link: https://www.iiia.csic.es/~vmartinez/
   skip: False
 
+- fullname: Laura Nolan (She/Her)
+  affiliations: 
+  - Freelancer
+  - Stop Killer Robots
+  position: Software Engineer · Volunteer
+  bio: "Laura Nolan is a software engineer in Dublin, Ireland and a volunteer with the Stop Killer Robots coalition. She worked at Google for nine years as a staff site reliability engineer. In 2018, she walked out over Google's involvement in Project Maven, a US military project to use AI to analyze drone surveillance footage."
+  photo: laura.png
+  alttext: Laura Nolan
+  tags:
+    - name: Website
+      link: https://2022.internethealthreport.org/story/say-no-to-killer-robots-laura-nolan/
+  skip: False
+
 - fullname: Paul Lushenko (He/Him)
   affiliations: 
   - US Army
