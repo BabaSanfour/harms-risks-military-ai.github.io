@@ -99,6 +99,20 @@
       link: https://2022.internethealthreport.org/story/say-no-to-killer-robots-laura-nolan/
   skip: False
 
+
+- fullname: Jacquelyn Schneider (She/Her)
+  affiliations: 
+  - Stanford University
+  - Hoover Wargaming and Crisis Simulation Initiative
+  position: Hargrove Hoover Fellow
+  bio: "Jacquelyn Schneider is the Hargrove Hoover Fellow at the Hoover Institution, the Director of the Hoover Wargaming and Crisis Simulation Initiative, and an affiliate with Stanford's Center for International Security and Cooperation. Her research focuses on the intersection of technology, national security, and political psychology with a special interest in cybersecurity, autonomous technologies, wargames, and Northeast Asia. She was previously an Assistant Professor at the Naval War College as well as a senior policy advisor to the Cyberspace Solarium Commission."
+  photo: jacquelyn.png
+  alttext: Jacquelyn Schneider
+  tags:
+    - name: Website
+      link: https://www.hoover.org/profiles/jacquelyn-schneider
+  skip: False
+
 - fullname: Paul Lushenko (He/Him)
   affiliations: 
   - US Army
