@@ -56,6 +56,9 @@
   bio: "As a professor of International Law, Bernard teaches international human rights law and the Inter-American System of Protection of Human Rights. He also serves as a member of the Working group on enforced or involuntary disappearances reporting to the United Nations Human Rights Council. Bernard Duhaime is a Fellow of the Pierre Elliott Trudeau Foundation (2017-2021). Previously, Duhaime was a lawyer at the Inter-American Commission on Human Rights of the OAS. He founded the Clinique Internationale de Défense des Droits Humains de l'UQAM and was its first director."
   photo: bernard.png
   alttext: Prof. Bernard Duhaime
+  title: "TBD"
+  abstract: "TBD"
+  time: "09:00"
   tags:
     - name: Website
       link: https://www.humanrightsnetwork.org/bernard-duhaime
@@ -68,6 +71,9 @@
   bio: "Jonathan is the deputy head of the legal department to the ICRC's Delegation for the United States and Canada, based in Washington, D.C. He focuses on legal issues relating to urban warfare, partnered military operations, and new and emerging technologies in armed conflict, including information operations. In this role, he engages with the U.S. and Canadian governments, as well as private technology companies and others. His latest publication is “One Click from Conflict: Some Legal Considerations Related to Technology Companies Providing Digital Services in Situations of Armed Conflict” (Chicago Journal of International Law, Vol. 24.2)."
   photo: jonathan.png
   alttext: Jonathan Horowitz
+  title: "TBD"
+  abstract: "TBD"
+  time: "13:30"
   tags:
     - name: Website
       link: https://blogs.icrc.org/law-and-policy/contributor/jonathan-horowitz/
@@ -108,6 +114,8 @@
   bio: "Jacquelyn Schneider is the Hargrove Hoover Fellow at the Hoover Institution, the Director of the Hoover Wargaming and Crisis Simulation Initiative, and an affiliate with Stanford's Center for International Security and Cooperation. Her research focuses on the intersection of technology, national security, and political psychology with a special interest in cybersecurity, autonomous technologies, wargames, and Northeast Asia. She was previously an Assistant Professor at the Naval War College as well as a senior policy advisor to the Cyberspace Solarium Commission."
   photo: jacquelyn.png
   alttext: Jacquelyn Schneider
+  title: "AI and Strategic Stability"
+  abstract: "TBD"
   tags:
     - name: Website
       link: https://www.hoover.org/profiles/jacquelyn-schneider
@@ -122,6 +130,9 @@
   bio: "Paul Lushenko is a Lieutenant Colonel in the US Army, an Assistant Professor at the US Army War College, and Strategist for the Joint Counter-Small Unmanned Aircraft Systems Office. He is also a Professorial Lecturer at George Washington University's Elliott School of International Affairs, Council on Foreign Relations Term Member, Senior Fellow at Cornell University's Tech Policy Institute and Institute of Politics and Global Affairs, and Non-Resident Expert at RegulatingAI. His work lies at the intersection of emerging technologies, politics, and national security, and he also researches the implications of great power competition for regional and global order-building. Paul is the author and editor of three books, including Drones and Global Order: Implications of Remote Warfare for International Society (2022), The Legitimacy of Drone Warfare: Evaluating Public Perceptions (2024), and Afghanistan and International Relations (under contract). Paul has written extensively on emerging technologies and war, publishing in academic journals, policy journals, and media outlets such as Security Studies, Foreign Affairs, and The Washington Post. He earned his Ph.D. and M.A. in International Relations from Cornell University. He also holds an M.A. in Defense and Strategic Studies from the U.S. Naval War College, an M.A. in International Relations and a Master of Diplomacy from The Australian National University, and a B.S. from the U.S. Military Academy."
   photo: paul.jpg
   alttext: Lieutenant Colonel Paul Lushenko
+  title: "Artificial Intelligence, Trust, and Military Decision-Making: Evidence from Survey Experiments in the US Military"
+  abstract: "What shapes military attitudes of trust in artificial intelligence (AI)? When used in concert with humans, AI is thought to help militaries maintain lethal overmatch of adversaries on the battlefield as well as optimize leaders' decision-making in the war-room. Despite these sanguine predictions, it is unclear what shapes soldiers' trust in AI, thus encouraging them to overcome skepticism of machines. To inform soldiers' understanding of AI, I explore three important but under-studied research questions. First, will soldiers trust AI used for different—tactical and strategic—purposes and with varying—human and machine—oversight? Second, what factors shape soldiers' trust in AI? Third, how are these trust outcomes complicated, if at all, by generational differences across the military ranks? To investigate these questions, I draw on novel middle-range theories that shape the use of survey experiments among rare and elite samples of the US military. The results suggest that soldiers' trust in AI is not guaranteed. Rather, trust is complex and multidimensional, shaped by underlying technical, operational, and regulatory considerations. These findings, which are consistent across the military ranks, provide the first experimental evidence for military attitudes of trust in AI, which have policy, strategy, and research implications."
+  time: "09:45"
   tags:
   skip: False
 
