@@ -7,6 +7,10 @@
   bio: "Branka leads the research on the military and security implications of emerging technologies. Her work examines ethical concerns regarding the development of autonomous weapons systems and the impact of artificial intelligence and robotics on security provision and trends in warfare. She holds a PhD from the Balsillie School of International Affairs with a specialization in conflict and security. She has conducted research on post-conflict societies and published academic articles and reports on the impacts of conflict on civilians and diverse issues of security governance, including security sector reform."
   photo: branka.png
   alttext: Dr. Branka Marijan
+  title: "TBD"
+  abstract: "TBD"
+  time: "10:30"
+  session: "dec2"
   tags:
     - name: Website
       link: https://www.ploughshares.ca/author/branka-marijan
@@ -22,6 +26,10 @@
   bio: "Sarah Grand-Clément is a Researcher in the Security and Technology Programme and the Conventional Arms and Ammunition Programme of the United Nations Institute for Disarmament Research (UNIDIR). Her work examines the intersection of technology with conventional arms, exploring both the challenges and threats that technology can pose to international security, as well as the benefits it can bring to prevent violent conflict and enable peace. Sarah also has a particular interest in the use of futures methodologies as a way to help explore these complex policy issues, with expertise in horizon scanning, serious gaming and future scenarios. Prior to joining UNIDIR, Sarah was a Senior Analyst working on defence and security policy issues at RAND Europe. She holds an MSc in Arab World Studies from Durham University."
   photo: Sarah_Grand_Clement.jpg
   alttext: Sarah Grand-Clément
+  title: "TBD"
+  abstract: "TBD"
+  time: "09:45"
+  session: "dec2"
   tags:
     - name: Website
       link: https://unidir.org/people/sarah-grand-clement/
@@ -59,6 +67,7 @@
   title: "TBD"
   abstract: "TBD"
   time: "09:00"
+  session: "dec3"
   tags:
     - name: Website
       link: https://www.humanrightsnetwork.org/bernard-duhaime
@@ -74,6 +83,7 @@
   title: "TBD"
   abstract: "TBD"
   time: "13:30"
+  session: "dec3"
   tags:
     - name: Website
       link: https://blogs.icrc.org/law-and-policy/contributor/jonathan-horowitz/
@@ -116,6 +126,7 @@
   alttext: Jacquelyn Schneider
   title: "AI and Strategic Stability"
   abstract: "TBD"
+  session: "dec2"
   tags:
     - name: Website
       link: https://www.hoover.org/profiles/jacquelyn-schneider
@@ -133,6 +144,7 @@
   title: "Artificial Intelligence, Trust, and Military Decision-Making: Evidence from Survey Experiments in the US Military"
   abstract: "What shapes military attitudes of trust in artificial intelligence (AI)? When used in concert with humans, AI is thought to help militaries maintain lethal overmatch of adversaries on the battlefield as well as optimize leaders' decision-making in the war-room. Despite these sanguine predictions, it is unclear what shapes soldiers' trust in AI, thus encouraging them to overcome skepticism of machines. To inform soldiers' understanding of AI, I explore three important but under-studied research questions. First, will soldiers trust AI used for different—tactical and strategic—purposes and with varying—human and machine—oversight? Second, what factors shape soldiers' trust in AI? Third, how are these trust outcomes complicated, if at all, by generational differences across the military ranks? To investigate these questions, I draw on novel middle-range theories that shape the use of survey experiments among rare and elite samples of the US military. The results suggest that soldiers' trust in AI is not guaranteed. Rather, trust is complex and multidimensional, shaped by underlying technical, operational, and regulatory considerations. These findings, which are consistent across the military ranks, provide the first experimental evidence for military attitudes of trust in AI, which have policy, strategy, and research implications."
   time: "09:45"
+  session: "dec3"
   tags:
   skip: False
 

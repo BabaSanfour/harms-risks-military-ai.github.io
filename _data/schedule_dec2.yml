@@ -4,10 +4,10 @@
 - name: Opening remarks
   time_start: "09:30"
   time_end: "09:45"
-- name: "Keynote talk - Sarah Grand-Clément"
+- name: "Keynote talk"
   time_start: "09:45"
   time_end: "10:30"
-- name: "Keynote talk - Branka Marijan"
+- name: "Keynote talk"
   time_start: "10:30"
   time_end: "11:15"
 - name: Coffee break
