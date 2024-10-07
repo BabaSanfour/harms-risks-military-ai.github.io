@@ -1,4 +1,4 @@
-- fullname: Branka Marijan (She/Her)
+- fullname: Branka Marijan
   affiliations: 
   - Project Ploughshares
   - Peace and Conflict Studies Association of Canada
@@ -19,7 +19,7 @@
 
 
 
-- fullname: Sarah Grand-Clément (She/Her)
+- fullname: Sarah Grand-Clément
   affiliations: 
   - United Nations Institute for Disarmament Research (UNIDIR)
   position: Researcher
@@ -36,7 +36,7 @@
   skip: False
 
 
-- fullname: Elina Noor (She/Her)
+- fullname: Elina Noor
   affiliations: 
   - Asia Program at Carnegie
   position: Senior Fellow
@@ -57,7 +57,7 @@
       link: https://www.asiapacific.ca/about-us/distinguished-fellows/elina-noor
   skip: False
 
-- fullname: Bernard Duhaime (He/Him)
+- fullname: Bernard Duhaime 
   affiliations: 
   - University of Quebec in Montreal
   position: Professor of International Law
@@ -73,7 +73,7 @@
       link: https://www.humanrightsnetwork.org/bernard-duhaime
   skip: False
 
-- fullname: Jonathan Horowitz (He/Him)
+- fullname: Jonathan Horowitz 
   affiliations: 
   - International Committee of the Red Cross (ICRC)
   position: deputy head of the legal department
@@ -90,7 +90,7 @@
   skip: False
 
 
-- fullname: Maria Vanina Martinez (She/Her)
+- fullname: Maria Vanina Martinez 
   affiliations: 
   - IIIA-CSIC
   position: Tenured Scientist
@@ -102,7 +102,7 @@
       link: https://www.iiia.csic.es/~vmartinez/
   skip: False
 
-- fullname: Laura Nolan (She/Her)
+- fullname: Laura Nolan 
   affiliations: 
   - Freelancer
   - Stop Killer Robots
@@ -116,7 +116,7 @@
   skip: False
 
 
-- fullname: Jacquelyn Schneider (She/Her)
+- fullname: Jacquelyn Schneider 
   affiliations: 
   - Stanford University
   - Hoover Wargaming and Crisis Simulation Initiative
@@ -132,7 +132,7 @@
       link: https://www.hoover.org/profiles/jacquelyn-schneider
   skip: False
 
-- fullname: Paul Lushenko (He/Him)
+- fullname: Paul Lushenko 
   affiliations: 
   - US Army
   - US Army War College
@@ -148,7 +148,7 @@
   tags:
   skip: False
 
-- fullname: Aaron Luttman (He/Him)
+- fullname: Aaron Luttman 
   affiliations: 
   - Pacific Northwest National Laboratory
   position: Senior Technical Advisor
@@ -160,7 +160,7 @@
       link: https://www.pnnl.gov/people/aaron-luttman
   skip: False
 
-- fullname: Andrew W. Reddie (He/Him)
+- fullname: Andrew W. Reddie 
   affiliations: 
   - Berkeley's Goldman School of Public Policy
   - University of California
@@ -175,7 +175,7 @@
       link: https://gspp.berkeley.edu/research-and-impact/faculty/andrew-reddie
   skip: False
 
-- fullname: Lode Dewaegheneire (He/Him)
+- fullname: Lode Dewaegheneire 
   affiliations: 
   - University of Liège (Belgium)
   position: Fellow and Independent Expert
