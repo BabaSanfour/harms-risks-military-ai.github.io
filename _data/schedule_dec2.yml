@@ -22,7 +22,7 @@
 - name: Poster session
   time_start: "13:45"
   time_end: "15:00"
-- name: "Keynote talk - TBD"
+- name: "Keynote talk"
   time_start: "15:00"
   time_end: "15:45"
 - name: "Panel: Governance of AI applications in the military"
