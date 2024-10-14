@@ -1,0 +1,50 @@
+- title: "Understanding Computer Science Students' views of Military (and Military-adjacent) Work"
+  authors: "Coming Soon"
+  affiliation: "Coming Soon"
+  email: "Soon"
+  abstract: "The increased (potential) adoption of AI by militaries around the world has drawn the attention and raised concerns of both legislators and computer scientists working in industry. However, we do not have a good sense of the views of the field. More specifically,
+    
+    Are computer science students seeking jobs concerned about their labour being used for military purposes or used in military contexts?
+    
+    Are they aware of the working relationships between large US technology companies and mlitiaries around the world?
+    
+    How does this knowledge (or lack thereof) affect their decision to apply to these companies?
+    
+    What would it take to make students reconsider working for companies known to apply for military contracts?
+    
+    We conducted an online survey of computer science students at Canadian universities who are seeking full-time jobs (or recent graduates who have recently obtained their first post-graduation job). Initial results seem to indicate that the majority of students do not particularly privilege the ethics of their labour over other considerations (e.g., remuneration or location). The majority of students were not concerned with their labour being used for military purposes, though this was not the case for all demographic subgroups. For those who were concerned about their labour being used for military purposes, a plurality knew of at least some, if not all, of the military contracts taken by the companies to which they applied. Compared to other ethical concerns (such as environmental impact), students were less concerned by the usage of their work in military contexts (or for military purposes).
+
+    Understanding students' views to the above questions is vital for a myriad of roles, be it educators looking to study the effectiveness of ethics courses, industry trying to gauge incoming worker sentiments, or military recruiters attempting to understand possible challenges."
+  keywords: "Survey, Opinion Poll, AI Ethics, Student Views, Industry Jobs"
+  poster: true
+  talk: false
+- title: "Examining the Past and Present: Objectives and Capabilities of Chinese AI-Powered Autonomous Weapon Systems"
+  authors: "Coming Soon"
+  affiliation: "Coming Soon"
+  email: "Soon"
+  abstract: "After China was designated as America's “strategic competitor” in 2017, politicians and scholars in the West and China have gradually come to recognize “strategic competition” as a reality of international politics. The application of AI in autonomous weapon systems is particularly concerning against the backdrop of escalating rivalry between China and the US. This paper aims to utilize a historical and comparative approach to provide insights into several key questions: • What are the capabilities of Chinese AI, and to what extent has AI been integrated into their autonomous weapon systems? • How can we best understand the objectives of AI-integrated AWS in China, and how do Chinese strategic military culture and the doctrines of the Chinese Communist Party influence the development and deployment of these weapons? • What legal, ethical, and operational challenges arise from the increased autonomy of weapon systems in China and which guidelines or red lines are being observed or violated in China?"
+  keywords: "China, Artificial Intelligence, Autonomous Weapon Systems"
+  poster: true
+  talk: false
+- title: "MILITARISING ML: FUNCTIONALITY & HARM"
+  authors: "Coming Soon"
+  affiliation: "Coming Soon"
+  email: "Soon"
+  abstract: "As the purview of artificial intelligence (AI) or machine learning (ML) continues to expand, so does the use of AI/ML in military application. How do we characterise the dimensions of ethical consideration relevant to military uses of ML? We propose that any normative deliberation over the use of ML in warfare must begin with an understanding of the function of the technology and the full range of harms that might flow from its (mis)use.
+
+    In the first place, it is necessary to understand that the methods of ML are tools for data analysis. As such, they are “epistemic technologies” (c.f., Alvarado, 2023). The methods of ML are therefore to be understood as techniques wielded by human beings towards the ends of gaining information about the world. ML-based systems are not autonomous reasoners, decision-makers, or actors, and any discussion of the ethics of their use in warfare must not treat them as such, at risk of obfuscating or wrongfully absolving human responsibility.
+
+    Of equal importance is the development of a taxonomy of potential harms which might flow from the military use of ML. We propose that, at the highest level, we ought to distinguish between use cases in which potential harms are specific to the use of ML versus those agnostic to the involvement of ML, what we term means-dependent and means-independent harms. Within the category of means-dependent harms, it is crucial to distinguish between harms which flow from the technology functioning “as intended” versus those resulting from malfunction (c.f., Raji, Kumar, Horowitz, & Selbst, 2022). In attempting to understand how the functionality of ML systems relates to their potential for harm, it is important to recognise in which cases the learning problem is, as specified, not feasible in principle. Problem misspecification and attempts to use ML to accomplish misguided or impossible epistemic tasks pose one of the greatest ethical risks for the use of ML in any domain (c.f., Andrews, Smart, & Birhane, 2024). Lastly, we highlight the role of “AI exceptionalism;” the assumption that the involvement of AI/ML methods makes possible tasks which are widely understood to be impossible, or renders ethical applications of interventions which are, in general, regarded as unethical. We view the discursive role played by AI/ML in modern military operations as an instance of this “AI exceptionalism” (c.f, Fang, 2024; Weirich, 2024).
+
+    We take this framework of responsibility allocation and harms analysis as a necessary starting place from which to evaluate the use of ML in military application."
+  keywords: "AI, ML, military, functionality, ethics, harms, philosophy"
+  poster: true
+  talk: false
+- title: "Human vs. Machine: Behavioral Differences between Expert Humans and Language Models in Wargame Simulations"
+  authors: "Coming Soon"
+  affiliation: "Coming Soon"
+  email: "Soon"
+  abstract: "To some, the advent of artificial intelligence (AI) promises better decision-making and increased military effectiveness while reducing the influence of human error and emotions. However, there is still debate about how AI systems, especially large language models (LLMs) that can be applied to many tasks, behave compared to humans in high-stakes military decision-making scenarios with the potential for increased risks towards escalation and unnecessary conflicts. To test this potential and scrutinize the use of LLMs for such purposes, we use a new wargame experiment with 214 national security experts designed to examine crisis escalation in a fictional U.S.-China scenario and compare the behavior of human player teams to LLM-simulated team responses in separate simulations. Wargames have a long history in the development of military strategy and the response of nations to threats or attacks. Here, we find that the LLM-simulated responses can be more aggressive and significantly affected by changes in the scenario. We show a considerable high-level agreement in the LLM and human responses and significant quantitative and qualitative differences in individual actions and strategic tendencies. These differences depend on intrinsic biases in LLMs regarding the appropriate level of violence following strategic instructions, the choice of LLM, and whether the LLMs are tasked to decide for a team of players directly or first to simulate dialog between a team of players. When simulating the dialog, the discussions lack quality and maintain a farcical harmony. The LLM simulations cannot account for human player characteristics, showing no significant difference even for extreme traits, such as “pacifist” or “aggressive sociopath.” When probing behavioral consistency across individual moves of the simulation, the tested LLMs deviated from each other but generally showed somewhat consistent behavior. Our results motivate policymakers to be cautious before granting autonomy or following AI-based strategy recommendations."
+  keywords: "natural language processing, decision making, AI safety, military AI, AI ethics, language model"
+  poster: true
+  talk: false

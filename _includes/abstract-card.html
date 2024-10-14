@@ -1,0 +1,30 @@
+
+<div class="columns container">
+  <div class="column is-one-fifth"></div>
+  <div class="column">
+    <div class="card">
+      <div class="card-content">
+        <div class="media">
+          <div class="media-content">
+            <p class="title is-4"><strong>Title: </strong>{{ abstract.title }}</p>
+            <p class="subtitle is-6">{{ abstract.authors }}</p>
+            <p class="subtitle is-6">First author affiliation: {{ abstract.affiliation }}</p>
+            <p class="subtitle is-6">Corresponding author email: {{ abstract.email }}</p>
+
+          </div>
+        </div>
+        <div class="content">
+          <p><strong>Short Abstract: </strong>{{ abstract.abstract }}</p>
+          <p class="subtitle is-5"><strong>Key Words: </strong>{{ abstract.keywords }}</p>
+          {% if abstract.poster %}
+          <a class="tag">Poster</a>
+          {% endif %}
+          {% if abstract.talk %}
+            <a class="tag">Talk</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+	</div>
+  <div class="column is-one-fifth"></div>
+</div>

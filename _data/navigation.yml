@@ -4,8 +4,13 @@
   link: /speakers.html
 - name: Schedule
   link: /schedule.html
-- name: Call for Abstracts
-  link: /submission.html
+- name: Abstracts
+  link: /#
+  dropdown:
+    - name: Call for Abstracts
+      link: /submission.html
+    - name: Accepted Abstracts
+      link: /accepted-abstracts.html
 - name: Team
   link: /team.html
 - name: Code of Conduct
