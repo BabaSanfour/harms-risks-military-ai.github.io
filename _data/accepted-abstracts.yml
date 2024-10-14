@@ -1,9 +1,21 @@
+- title: "AI in Military Decision Support Systems and Human Agency in Warfare"
+  authors: "Anna Nadibaidze"
+  affiliation: "Center for War Studies, University of Southern Denmark - SDU"
+  email: "none"
+  abstract: "Reports from armed conflicts around the world underline that artificial intelligence (AI) technologies are increasingly integrated into targeting decision-making (Davies, McKernan, and Sabbagh 2023; Bergengruen 2024; Ignatius 2022). Armed forces are developing and employing AI-based systems as part of the complex and multi-layered process of decision-making that relate to the use of force. Such uses of AI in security and warfare are associated with benefits and challenges which deserve further scrutiny (Ekelhof 2024; Holland Michel 2024; ICRC and Geneva Academy 2024; Zhou and Greipl 2024). To contribute to ongoing discussions on AI-based decision support systems (AI DSS), this article discusses 1) the main developments in relation to AI DSS, focusing on specific examples of existing systems; and 2) the main debates about the benefits and risks surrounding various uses of AI DSS, with a focus on human-machine interaction and distributed agency in warfare.
+    While acknowledging that the development of AI DSS is a global, apparently persistent, and long-standing trend, the article focuses on mapping and analyzing specific examples as part of three main, most recently reported, cases: the United States’ Project Maven, the Russia-Ukraine war (2022-), and the Israel-Hamas war (2023-). These cases are treated as indicative of possible use contexts of AI DSS, as well as representative of some of the varied benefits and challenges associated with the integration of AI into military decision-making. Advantages of AI DSS could include increased speed, scale, and efficiency of decision-making which might lead to strategic advantages in a battlefield context as well as enhanced protection of civilians (Boulanin 2024; Greipl 2023; Kerbusch, Keijser, and Smit, n.d.). With increased speed and scale, however, also come various risks around how humans interact with AI DSS in the complex and multifaceted process of military decision-making.
+    This article highlights how challenges of AI DSS are linked to human-machine interaction and the distributed agency between humans and machines, which raise legal, ethical, and security concerns. These include concerns regarding the respect of international humanitarian law principles (Bo and Dorsey 2024; Hinds 2024; Klonowska 2022), the erosion of moral agency (Renic and Schwarz 2023; Agenjo 2024), and unintended escalation (Holland Michel 2024; Stewart and Hinds 2023). While the assumption for AI DSS is that humans (will) remain the ultimate decision-makers on use-of-force decisions, there are risks of humans not exercising sufficient levels of involvement and critical thinking in the targeting process (Bode and Watts 2023; Bode and Nadibaidze 2024). Ultimately, benefits and challenges associated with AI DSS and their use in military decision-making also depend on contexts of use and how humans interact with machines within those contexts.
+    To push and develop these discussions further, the article recommends that stakeholders in the international debate about military applications of AI focus on questions of human-machine interaction and work towards addressing the challenges associated with distributed agency in warfare. Ways forward in the debate include 1) ensuring an appropriate level of human judgement and critical assessment of algorithmic outputs via practical guidance and training and 2) pursuing multistakeholder and cross-disciplinary global governance initiatives on the role of the human in the use of force, including via legally binding norms and/or a bottom-up standard-setting process."
+  keywords: "AI, decision-support, targeting, agency, human-machine interaction"
+  poster: true
+  talk: false
+
 - title: "Understanding Computer Science Students' views of Military (and Military-adjacent) Work"
-  authors: "Coming Soon"
-  affiliation: "Coming Soon"
-  email: "Soon"
+  authors: "Sahar Abdalla, Alicia Cappello, Mohamed Abdalla, Catherine Stinson"
+  affiliation: "University of Alberta"
+  email: "sahar.abdalla@mail.utoronto.ca"
   abstract: "The increased (potential) adoption of AI by militaries around the world has drawn the attention and raised concerns of both legislators and computer scientists working in industry. However, we do not have a good sense of the views of the field. More specifically,
-    
+  
     Are computer science students seeking jobs concerned about their labour being used for military purposes or used in military contexts?
     
     Are they aware of the working relationships between large US technology companies and mlitiaries around the world?
@@ -17,19 +29,123 @@
     Understanding students' views to the above questions is vital for a myriad of roles, be it educators looking to study the effectiveness of ethics courses, industry trying to gauge incoming worker sentiments, or military recruiters attempting to understand possible challenges."
   keywords: "Survey, Opinion Poll, AI Ethics, Student Views, Industry Jobs"
   poster: true
+  talk: true
+
+- title: "Ethical Effects of AI and Emerging Technology on Military Decision-Making"
+  authors: "Shannon E. French"
+  affiliation: "Australian National University"
+  email: "none"
+  abstract: "This paper examines the effects of the use of artificial intelligence and other new and emerging technologies on the ethics of decision-making within the military, using primarily the U.S. military as an example (but with parallels and contrasts to other countries' militaries). Drawing on the principles of the just war tradition, the author argues that vital military decisions involving proportionality and discrimination/distinction (e.g. targeting decisions) cannot and should not be reduced to programs and algorithms for autonomous systems. The author examines instances where human-machine partnerships could be beneficial for ethical military decision-making, presenting the case for augmentation and option-generation. The author also explores possible uses for advanced technology in the military outside of those involving weaponry and the direct conduct of war, including military medical triage, logistics, and other applications."
+  keywords: "military, ethics, military ethics, emerging technologies, artificial intelligence, decision-making"
+  poster: true
   talk: false
+
+- title: "Machine Intelligence Cyber-Warfare"
+  authors: "Seth Lazar"
+  affiliation: "Case Western Reserve University"
+  email: "none"
+  abstract: "Cyber warfare is almost certainly the first domain in which fully autonomous machine intelligence combatants will be deployed. This is because cyber warfare occurs in a “constrained” domain, unlike the physical domains of land, air, maritime and space. A Machine Intelligence Cyber Actor (MICA) would not need to be embodied with a comprehensive set of perceptual functions to understand the battlespace. This is because computer network information is already processed in a machine-readable format. Thus, a machine intelligence combatant is already ‘native’ to the cyber domain. In this paper, we first characterise both the incentives to build MICAs and the current state of the art before articulating five key priorities that researchers and practitioners should pursue now to reduce the risk of MICAs causing catastrophic harm."
+  keywords: "Military uses of AI; cybersecurity; cyber warfare"
+  poster: true
+  talk: false
+
+- title: "Measuring Free-Form Decision-Making Inconsistency of Language Models in Military Crisis Simulations"
+  authors: "Aryan Shrivastava, Max Lamparth, Jessica Hullman"
+  affiliation: "University of Chicago"
+  email: "none"
+  abstract: "Multiple countries are actively testing language models (LMs) in military crisis decision-making. To scrutinize relying on LM decision-making in military settings, we examine the inconsistency of responses in a crisis simulation (\"wargame\"), similar to reported tests conducted by the US military. Previous works illustrated escalatory tendencies and different levels of aggression but were constrained to simulations with pre-defined actions, given the challenges associated with quantitatively measuring semantic differences. Thus, we let LMs respond in free-form and use a metric based on BERTScore to quantitatively measure response inconsistency. We demonstrate that BERTScore is robust to linguistic variations that preserve semantic meaning in a question-answering setting across text lengths. We show that all five tested LMs exhibit levels of inconsistency that indicate semantic differences, even when adjusting the wargame setting or anonymizing countries. Further qualitative evaluation shows that models recommend courses of action that share few to no similarities. Given the high-stakes nature of military deployment, we recommend further consideration be taken before allowing LMs to inform military decisions."
+  keywords: "Military, AI Safety, Transparency, Inconsistency, Language Models, Natural Language Processing"
+  poster: true
+  talk: false
+
+- title: "Inconsistencies in Artificial Intelligence Strategy Alignment of NATO Member States"
+  authors: "Itai Epstein, Dane Malenfant, Sara Parker, Cella Wardrop"
+  affiliation: "McGill University"
+  email: "none"
+  abstract: "The increasing discourse of the use of AI in military applications, from autonomous weapons to surveillance, raises global security concerns, particularly due to the secrecy surrounding these technologies. Uncertainty about AI's role in warfare could fuel an arms race similar to mid-20th century nuclear proliferation. Our research examines NATO member states' willingness to cooperate on military AI, analyzing public policies and statements in official reports and documents with a table. While only 34% of NATO members have specific military AI policies, 88% have national AI strategies, highlighting a broader interest in AI but limited focus on its military use. Future work will explore correlations between military expenditures, R&D investments, and AI policy development."
+  keywords: "NATO, policy, military, AI, cybersecurity, digital"
+  poster: true
+  talk: false
+
+- title: "AI-Powered Autonomous Weapons Risk Geopolitical Instability and Threaten AI Research"
+  authors: "Riley Simmons-Edler, Ryan Paul Badman, Shayne Longpre, Kanaka Rajan"
+  affiliation: "Harvard University"
+  email: "none"
+  abstract: "The recent embrace of machine learning (ML) in the development of autonomous weapons systems (AWS) creates serious risks to geopolitical stability and the free exchange of ideas in AI research. This topic has received comparatively little attention of late compared to risks stemming from superintelligent artificial general intelligence (AGI), but requires fewer assumptions about the course of technological development and is thus a nearer-future issue. ML is already enabling the substitution of AWS for human soldiers in many battlefield roles, reducing the upfront human cost, and thus political cost, of waging offensive war. In the case of peer adversaries, this increases the likelihood of ``low intensity'' conflicts which risk escalation to broader warfare. In the case of non-peer adversaries, it reduces the domestic blowback to wars of aggression. This effect can occur regardless of other ethical issues around the use of military AI such as the risk of civilian casualties, and does not require any superhuman AI capabilities. Further, the military value of AWS raises the specter of an AI-powered arms race and the misguided imposition of national security restrictions on AI research. Our goal in this paper is to raise awareness among the public and ML researchers on the near-future risks posed by full or near-full autonomy in military technology, and we provide regulatory suggestions to mitigate these risks. We call upon AI policy experts and the defense AI community in particular to embrace transparency and caution in their development and deployment of AWS to avoid the negative effects on global stability and AI research that we highlight here."
+  keywords: "Autonomous Weapons Systems, Military AI, AI Risks"
+  poster: true
+  talk: false
+
 - title: "Examining the Past and Present: Objectives and Capabilities of Chinese AI-Powered Autonomous Weapon Systems"
-  authors: "Coming Soon"
-  affiliation: "Coming Soon"
-  email: "Soon"
+  authors: "Jean Dong"
+  affiliation: "Harvard University"
+  email: "none"
   abstract: "After China was designated as America's “strategic competitor” in 2017, politicians and scholars in the West and China have gradually come to recognize “strategic competition” as a reality of international politics. The application of AI in autonomous weapon systems is particularly concerning against the backdrop of escalating rivalry between China and the US. This paper aims to utilize a historical and comparative approach to provide insights into several key questions: • What are the capabilities of Chinese AI, and to what extent has AI been integrated into their autonomous weapon systems? • How can we best understand the objectives of AI-integrated AWS in China, and how do Chinese strategic military culture and the doctrines of the Chinese Communist Party influence the development and deployment of these weapons? • What legal, ethical, and operational challenges arise from the increased autonomy of weapon systems in China and which guidelines or red lines are being observed or violated in China?"
   keywords: "China, Artificial Intelligence, Autonomous Weapon Systems"
   poster: true
   talk: false
+
+- title: "The purpose of a system is what it does, and science is a thing which people do': from AI epistemology to AI military ethics"
+  authors: "Zhanpei Fang"
+  affiliation: "Oregon State University"
+  email: "none"
+  abstract: "Drawing upon recent work on understanding the usage of machine learning for natural sciences research, I posit that the epistemic problems of ML have significant bearing upon concerns related to its deployment in a military context. In particular I try to sketch out throughlines between the epistemology and the ethics of AI by way of the useful philosophical lenses of the theory-free ideal and instrumental reason. The urgency of this task is underlined when we consider ML/AI's growing role in administering human life, in military and statecraft as well as in many other contexts.
+    The faulty epistemic practices performed by AI practitioners, commentators and policymakers have real consequences on the social and natural world. I consider ethical consequences of the `conceptual poorness' assigned to ML methods, and provide some theoretical scaffolding to fold AI into other discourses of technology, namely the critique of instrumental reason, additionally applying the Marxian notion of reification to understanding AI as a social technology or organizing activity. Informed by my experiences as a junior applied-ML researcher in the space-tech industry, now in academia studying novel ML methods on satellite imagery in regions of humanitarian & conflict concern, and illustrating with some recent examples, I provide a few policy recommendations as well as recommendations for AI ethics & fairness research directions."
+  keywords: "military AI, AI epistemology, AI ethics, critical theory, philosophy of technology"
+  poster: true
+  talk: false
+
+- title: "DisasterQA: A Benchmark for Assessing the performance of LLMs in Disaster Response"
+  authors: "Rajat Rawat, Kevin Zhu"
+  affiliation: "Algoverse Coding Academy LLC"
+  email: "none"
+  abstract: "The military plays a key role in Humanitarian Assistance and Disaster Relief. Disasters can result in the deaths of many, making quick response times vital. Large Language Models (LLMs) have emerged as valuable in the field. LLMs can be used to process vast amounts of textual information quickly providing situational context during a disaster. However, the question remains whether LLMs should be used for advice and decision-making in a disaster. To evaluate the capabilities of LLMs in disaster response knowledge, we introduce a benchmark: DisasterQA created from six online sources. The benchmark covers a wide range of disaster response topics. We evaluated five LLMs each with four different prompting methods on our benchmark, measuring both accuracy and confidence levels. We hope that this benchmark pushes forth further development of LLMs in disaster response, ultimately enabling these models to work alongside emergency managers in disasters."
+  keywords: "Humanitarian Assistance and Disaster Relief, Large Language Models, Emergency Response, Disaster Management, Benchmark"
+  poster: true
+  talk: false
+
+- title: "Autonomous Weapons Systems Proliferation Poses Risks to Human Rights and International Security"
+  authors: "Leif Monnett"
+  affiliation: "Independent Researcher"
+  email: "none"
+  abstract: "Autonomous weapons systems (AWS) are rapidly being developed, and are likely to proliferate. Many factors will determine which kinds of AWS proliferate, to whom they proliferate, and the pace and scope of proliferation. This paper identifies international security and law risks from the proliferation of AWS to state and non-state actors, including risks to civil society.
+    Potential uses of AWS by state and non-state actors include warfighting, policing, and extrajudicial killing. Challenges to international human rights and humanitarian law from the use of AWS in warfighting and policing have previously been well-examined . However, proliferation of AWS may facilitate the targeted killing of a wide range of at-risk individuals and vulnerable populations by state and non-state actors. The human rights implications of the use of AWS for extrajudicial killing are manifold, and include violations of the rights to life, dignity, freedom of opinion and expression, freedom of religion, freedom of peaceful assembly and association, protection from discrimination, etc. Challenges posed to attribution by AWS may undermine accountability: a core principle underlying international law.
+    This paper provides specific policy recommendations to mitigate such risks, and argues that international action to address these issues is urgently needed."
+  keywords: "human rights, international security, international law"
+  poster: true
+  talk: false
+
+- title: "The Fallacy of Precision: Deconstructing the Narrative Supporting AI-Enhanced Military Weaponry"
+  authors: "Sonia Fereidooni"
+  affiliation: "University of Cambridge"
+  email: "none"
+  abstract: "Recent pro-military arguments have attempted to morally justify the integration of AI into military systems as a path of developing more precise and sophisticated weaponry. However, this narrative obscures the reality of AI-based weaponry: the moral detachment and automation of weapons of mass destruction as well as the perpetuation of systemic violence. This paper aims to critically investigate the the misleading philosophy of how AI in military contexts can be humane, exposing the high civilian toll inherent in currently deployed AI military systems and the ethical implications of their deployment. This paper argues that the push for militaristic AI (1) necessitates extensive experimentation on human lives to develop sophisticated AI weaponry, (2) most disproportionately affects marginalized communities in the Global South as a means of experimentation of such weapons, (3) represents a non-negligible means of AI being used to claim human lives. The paper presents a case study of AI systems like \"Where's Daddy?\", \"Lavender\", and \"The Gospel\" employed by the Israel Defense Forces (IDF) in Palestine, demonstrating how AI-driven \"kill lists\" disregard civilian casualties and only act as a method of automating and easing the expansion of the demolition of militaristic weapons without regard of human life. By unmasking the deceptive rhetoric surrounding military AI, this paper aims to elicit critical discourse on the practical ramifications of the use of AI in warfare."
+  keywords: "Palestine, Gaza, IDF, Warfare, Philosophy, Morality, Dehumanization, AI Military"
+  poster: true
+  talk: false
+
+- title: "Can AI-powered military comply with international humanitarian laws?"
+  authors: "Hager Radi Abdelwahed, Omnia Farrag Othman, Hadeer El Ashhab"
+  affiliation: "Mila - Quebec Artificial Intelligence Institute"
+  email: "none"
+  abstract: "Artificial Intelligence (AI) has recorded unprecedented progress in the last few years. There has been a lot of ongoing discussions about AI safety such that AI is moving too fast without considering all safety issues. There have been calls to slow down AI research due to its increasing impact on everyone's lives. We believe the AI community is not giving enough attention to autonomous weapons systems (AWS) as AWS is a very concerning use case of AI and draws one of the worst threats to human life. We build upon current work as we question if AI in military can be safely regulated, in light of international humanitarian law (IHL). Our goal was to highlight the gap between the current state of AI use in military and international laws, and show how hard it is to legalize AWS. In future work, we will analyze, in more technical detail, how current AI systems do not comply with international humanitarian law and hence not ready to be used in wars."
+  keywords: "AI safety, autonomous weapons systems (AWS), AI regulations, International Humanitarian Law (IHL)"
+  poster: true
+  talk: false
+
+- title: "Balancing Power and Ethics: A Framework for Addressing Human Rights Concerns in Military AI"
+  authors: "Mst Rafia Islam, Azmine Toushik Wasi"
+  affiliation: "Independent University, Bangladesh"
+  email: "none"
+  abstract: "AI has made significant strides recently, leading to various applications in both civilian and military sectors. The military sees AI as a solution for developing more effective and faster technologies. While AI offers benefits like improved operational efficiency and precision targeting, it also raises serious ethical and legal concerns, particularly regarding human rights violations. Autonomous weapons that make decisions without human input can threaten the right to life and violate international humanitarian law. To address these issues, we propose a three-stage framework (Design, In Deployment, and During/After Use) for evaluating human rights concerns in the design, deployment, and use of military AI. Each phase includes multiple components that address various concerns specific to that phase, ranging from bias and regulatory issues to violations of International Humanitarian Law. By this framework, we aim to balance the advantages of AI in military operations with the need to protect human rights."
+  keywords: "Military AI, Human Rights, AI Ethics, Power and Politics"
+  poster: true
+  talk: true
+
 - title: "MILITARISING ML: FUNCTIONALITY & HARM"
-  authors: "Coming Soon"
-  affiliation: "Coming Soon"
-  email: "Soon"
+  authors: "Mel Andrews, Andrew J Smart"
+  affiliation: "Carnegie Mellon University"
+  email: "none"
   abstract: "As the purview of artificial intelligence (AI) or machine learning (ML) continues to expand, so does the use of AI/ML in military application. How do we characterise the dimensions of ethical consideration relevant to military uses of ML? We propose that any normative deliberation over the use of ML in warfare must begin with an understanding of the function of the technology and the full range of harms that might flow from its (mis)use.
 
     In the first place, it is necessary to understand that the methods of ML are tools for data analysis. As such, they are “epistemic technologies” (c.f., Alvarado, 2023). The methods of ML are therefore to be understood as techniques wielded by human beings towards the ends of gaining information about the world. ML-based systems are not autonomous reasoners, decision-makers, or actors, and any discussion of the ethics of their use in warfare must not treat them as such, at risk of obfuscating or wrongfully absolving human responsibility.
@@ -40,11 +156,22 @@
   keywords: "AI, ML, military, functionality, ethics, harms, philosophy"
   poster: true
   talk: false
+
 - title: "Human vs. Machine: Behavioral Differences between Expert Humans and Language Models in Wargame Simulations"
-  authors: "Coming Soon"
-  affiliation: "Coming Soon"
-  email: "Soon"
+  authors: "Max Lamparth, Anthony Corso, Jacob Ganz, Oriana Skylar Mastro, Jacquelyn Schneider, Harold Trinkunas"
+  affiliation: "Stanford University"
+  email: "none"
   abstract: "To some, the advent of artificial intelligence (AI) promises better decision-making and increased military effectiveness while reducing the influence of human error and emotions. However, there is still debate about how AI systems, especially large language models (LLMs) that can be applied to many tasks, behave compared to humans in high-stakes military decision-making scenarios with the potential for increased risks towards escalation and unnecessary conflicts. To test this potential and scrutinize the use of LLMs for such purposes, we use a new wargame experiment with 214 national security experts designed to examine crisis escalation in a fictional U.S.-China scenario and compare the behavior of human player teams to LLM-simulated team responses in separate simulations. Wargames have a long history in the development of military strategy and the response of nations to threats or attacks. Here, we find that the LLM-simulated responses can be more aggressive and significantly affected by changes in the scenario. We show a considerable high-level agreement in the LLM and human responses and significant quantitative and qualitative differences in individual actions and strategic tendencies. These differences depend on intrinsic biases in LLMs regarding the appropriate level of violence following strategic instructions, the choice of LLM, and whether the LLMs are tasked to decide for a team of players directly or first to simulate dialog between a team of players. When simulating the dialog, the discussions lack quality and maintain a farcical harmony. The LLM simulations cannot account for human player characteristics, showing no significant difference even for extreme traits, such as “pacifist” or “aggressive sociopath.” When probing behavioral consistency across individual moves of the simulation, the tested LLMs deviated from each other but generally showed somewhat consistent behavior. Our results motivate policymakers to be cautious before granting autonomy or following AI-based strategy recommendations."
   keywords: "natural language processing, decision making, AI safety, military AI, AI ethics, language model"
+  poster: true
+  talk: true
+
+- title: "Impending Expansion of AI Misuse towards Militarization in India"
+  authors: "Param Raval"
+  affiliation: "Université de Montréal"
+  email: "none"
+  abstract: "Facial recognition technology (FRT) has always had the risk of being weaponized by malicious actors in power including private and state institutions. Moreover, with greater data consolidation capabilities, artificial intelligence synergizes with extended dataveillance to give these actors better tools to achieve objectives harmful to the greater population. With an urban population of 500 million out of a total 1.45 billion, and an emerging base of around 750-800 million active internet users, India provides a compelling case study to analyze AI misuse. Being a non-western democracy, it also allows us to critique the existing and proposed frameworks to regulate the state use of surveillance and AI technology for public safety.
+    We argue that the deterioration of human rights safety in India in recent years, and state and military deployment of FRT in policing points to a larger threat in impending expansion of harmful use of AI systems. Further, we observe that frameworks proposed to assess the threats of and regulate such systems are found lacking when applied in this case. Combined with weaponization of AI towards swaying public opinion in support of certain measures, the situation sets the stage for dangerous advancements in the near future. Based on our observations, we call for a re-evaluation of global regulatory frameworks and to extend this reasoning to other nations with systems vulnerable to AI-driven misuse by harmful actors."
+  keywords: "Facial recognition technology, India"
   poster: true
   talk: false
