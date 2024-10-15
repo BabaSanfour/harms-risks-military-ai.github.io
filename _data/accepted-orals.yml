@@ -1,0 +1,35 @@
+- title: "Understanding Computer Science Students' views of Military (and Military-adjacent) Work"
+  authors: "Sahar Abdalla, Alicia Cappello, Mohamed Abdalla, Catherine Stinson"
+  email: "sahar.abdalla@mail.utoronto.ca"
+  abstract: "The increased (potential) adoption of AI by militaries around the world has drawn the attention and raised concerns of both legislators and computer scientists working in industry. However, we do not have a good sense of the views of the field. More specifically,
+  
+    Are computer science students seeking jobs concerned about their labour being used for military purposes or used in military contexts?
+    
+    Are they aware of the working relationships between large US technology companies and mlitiaries around the world?
+    
+    How does this knowledge (or lack thereof) affect their decision to apply to these companies?
+    
+    What would it take to make students reconsider working for companies known to apply for military contracts?
+    
+    We conducted an online survey of computer science students at Canadian universities who are seeking full-time jobs (or recent graduates who have recently obtained their first post-graduation job). Initial results seem to indicate that the majority of students do not particularly privilege the ethics of their labour over other considerations (e.g., remuneration or location). The majority of students were not concerned with their labour being used for military purposes, though this was not the case for all demographic subgroups. For those who were concerned about their labour being used for military purposes, a plurality knew of at least some, if not all, of the military contracts taken by the companies to which they applied. Compared to other ethical concerns (such as environmental impact), students were less concerned by the usage of their work in military contexts (or for military purposes).
+
+    Understanding students' views to the above questions is vital for a myriad of roles, be it educators looking to study the effectiveness of ethics courses, industry trying to gauge incoming worker sentiments, or military recruiters attempting to understand possible challenges."
+  keywords: "Survey, Opinion Poll, AI Ethics, Student Views, Industry Jobs"
+  poster: true
+  talk: true
+
+- title: "Balancing Power and Ethics: A Framework for Addressing Human Rights Concerns in Military AI"
+  authors: "Mst Rafia Islam, Azmine Toushik Wasi"
+  email: "none"
+  abstract: "AI has made significant strides recently, leading to various applications in both civilian and military sectors. The military sees AI as a solution for developing more effective and faster technologies. While AI offers benefits like improved operational efficiency and precision targeting, it also raises serious ethical and legal concerns, particularly regarding human rights violations. Autonomous weapons that make decisions without human input can threaten the right to life and violate international humanitarian law. To address these issues, we propose a three-stage framework (Design, In Deployment, and During/After Use) for evaluating human rights concerns in the design, deployment, and use of military AI. Each phase includes multiple components that address various concerns specific to that phase, ranging from bias and regulatory issues to violations of International Humanitarian Law. By this framework, we aim to balance the advantages of AI in military operations with the need to protect human rights."
+  keywords: "Military AI, Human Rights, AI Ethics, Power and Politics"
+  poster: true
+  talk: true
+
+- title: "Human vs. Machine: Behavioral Differences between Expert Humans and Language Models in Wargame Simulations"
+  authors: "Max Lamparth, Anthony Corso, Jacob Ganz, Oriana Skylar Mastro, Jacquelyn Schneider, Harold Trinkunas"
+  email: "none"
+  abstract: "To some, the advent of artificial intelligence (AI) promises better decision-making and increased military effectiveness while reducing the influence of human error and emotions. However, there is still debate about how AI systems, especially large language models (LLMs) that can be applied to many tasks, behave compared to humans in high-stakes military decision-making scenarios with the potential for increased risks towards escalation and unnecessary conflicts. To test this potential and scrutinize the use of LLMs for such purposes, we use a new wargame experiment with 214 national security experts designed to examine crisis escalation in a fictional U.S.-China scenario and compare the behavior of human player teams to LLM-simulated team responses in separate simulations. Wargames have a long history in the development of military strategy and the response of nations to threats or attacks. Here, we find that the LLM-simulated responses can be more aggressive and significantly affected by changes in the scenario. We show a considerable high-level agreement in the LLM and human responses and significant quantitative and qualitative differences in individual actions and strategic tendencies. These differences depend on intrinsic biases in LLMs regarding the appropriate level of violence following strategic instructions, the choice of LLM, and whether the LLMs are tasked to decide for a team of players directly or first to simulate dialog between a team of players. When simulating the dialog, the discussions lack quality and maintain a farcical harmony. The LLM simulations cannot account for human player characteristics, showing no significant difference even for extreme traits, such as “pacifist” or “aggressive sociopath.” When probing behavioral consistency across individual moves of the simulation, the tested LLMs deviated from each other but generally showed somewhat consistent behavior. Our results motivate policymakers to be cautious before granting autonomy or following AI-based strategy recommendations."
+  keywords: "natural language processing, decision making, AI safety, military AI, AI ethics, language model"
+  poster: true
+  talk: true
