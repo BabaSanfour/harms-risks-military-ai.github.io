@@ -9,7 +9,7 @@
   alttext: Dr. Branka Marijan
   title: "TBD"
   abstract: "TBD"
-  time: "10:30"
+  time: "10:15"
   session: "dec2"
   tags:
     - name: Website
@@ -28,7 +28,7 @@
   alttext: Sarah Grand-Clément
   title: "Artificial Intelligence Beyond Weapons: Application and Impact of AI in the Military Domain"
   abstract: "Within the United Nations, the application of artificial intelligence (AI) in the military domain has, to-date, primarily been discussed in the context of the United Nations Group of Governmental Experts (GGE) on emerging technologies in the area of lethal autonomous weapons systems (LAWS). However, the application of AI within the military domain extends beyond the issue of LAWS as well as beyond applications relating to the use of force and the narrow tasks of target selection and target engagement within the targeting process. This talk will explore the current and near-future AI capabilities that may be applied in the military domain, beyond weapons. It will also examine the strengths and limitations regarding the application of AI to these military tasks, and raise key issues for consideration around the application of AI to the military domain."
-  time: "09:45"
+  time: "09:30"
   session: "dec2"
   tags:
     - name: Website
@@ -66,8 +66,8 @@
   alttext: Prof. Bernard Duhaime
   title: "TBD"
   abstract: "TBD"
-  time: "09:00"
-  session: "dec3"
+  time: "14:00"
+  session: "dec2"
   tags:
     - name: Website
       link: https://www.humanrightsnetwork.org/bernard-duhaime
@@ -126,8 +126,8 @@
   alttext: Jacquelyn Schneider
   title: "AI and Strategic Stability"
   abstract: "TBD"
-  time: "15:00"
-  session: "dec2"
+  time: "09:45"
+  session: "dec3"
   tags:
     - name: Website
       link: https://www.hoover.org/profiles/jacquelyn-schneider
@@ -144,7 +144,7 @@
   alttext: Lieutenant Colonel Paul Lushenko
   title: "Artificial Intelligence, Trust, and Military Decision-Making: Evidence from Survey Experiments in the US Military"
   abstract: "What shapes military attitudes of trust in artificial intelligence (AI)? When used in concert with humans, AI is thought to help militaries maintain lethal overmatch of adversaries on the battlefield as well as optimize leaders' decision-making in the war-room. Despite these sanguine predictions, it is unclear what shapes soldiers' trust in AI, thus encouraging them to overcome skepticism of machines. To inform soldiers' understanding of AI, I explore three important but under-studied research questions. First, will soldiers trust AI used for different—tactical and strategic—purposes and with varying—human and machine—oversight? Second, what factors shape soldiers' trust in AI? Third, how are these trust outcomes complicated, if at all, by generational differences across the military ranks? To investigate these questions, I draw on novel middle-range theories that shape the use of survey experiments among rare and elite samples of the US military. The results suggest that soldiers' trust in AI is not guaranteed. Rather, trust is complex and multidimensional, shaped by underlying technical, operational, and regulatory considerations. These findings, which are consistent across the military ranks, provide the first experimental evidence for military attitudes of trust in AI, which have policy, strategy, and research implications."
-  time: "09:45"
+  time: "09:00"
   session: "dec3"
   tags:
   skip: False
