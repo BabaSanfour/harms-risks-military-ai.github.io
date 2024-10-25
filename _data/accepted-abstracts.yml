@@ -9,13 +9,6 @@
   poster: true
   talk: false
 
-- title: "Ethical Effects of AI and Emerging Technology on Military Decision-Making"
-  authors: "Shannon E. French"
-  email: "none"
-  abstract: "This paper examines the effects of the use of artificial intelligence and other new and emerging technologies on the ethics of decision-making within the military, using primarily the U.S. military as an example (but with parallels and contrasts to other countries' militaries). Drawing on the principles of the just war tradition, the author argues that vital military decisions involving proportionality and discrimination/distinction (e.g. targeting decisions) cannot and should not be reduced to programs and algorithms for autonomous systems. The author examines instances where human-machine partnerships could be beneficial for ethical military decision-making, presenting the case for augmentation and option-generation. The author also explores possible uses for advanced technology in the military outside of those involving weaponry and the direct conduct of war, including military medical triage, logistics, and other applications."
-  keywords: "military, ethics, military ethics, emerging technologies, artificial intelligence, decision-making"
-  poster: true
-  talk: false
 
 - title: "Machine Intelligence Cyber-Warfare"
   authors: "Seth Lazar"
