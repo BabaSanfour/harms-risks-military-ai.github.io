@@ -120,6 +120,19 @@
       link: https://www.iiia.csic.es/~vmartinez/
   skip: False
 
+- fullname: Paul Biggar
+  affiliations: 
+  - Tech for Palestine
+  position: Founder
+  bio: "Paul Biggar leads Tech for Palestine, a collaboration of tech projects advocating for Palestine. At its core, Tech for Palestine is an incubator to start and support projects for Palestine with mentorship, tech volunteers, marketing support, and connections to the broad Palestine advocacy community. He previously founded tech startups Darklang and CircleCI, as well as a Y Combinator-backed startup. He graduated with a PhD in Computer Science from Trinity College Dublin in 2010."
+  photo: paul-biggar.png
+  alttext: Paul Biggar
+  tags:
+    - name: Website
+      link: https://techforpalestine.org/
+  skip: False
+
+
 - fullname: Laura Nolan 
   affiliations: 
   - Freelancer
