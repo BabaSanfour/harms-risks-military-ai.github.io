@@ -4,13 +4,13 @@ title: About
 subtitle: Harms and Risks of AI in the Military
 permalink: /about
 ---
-<img src="{{ site.logo }}" style="width:300px;vertical-align:middle;padding-right:10px;float:left">
-The growing interest of military agencies in adopting AI technologies raises concerns about the harms and risks posed by such AI applications with respect to safety, human rights, marginalized communities, conflict escalations and global security. In this workshop, we aim to bridge the gap between the AI research community and experts in military AI regulations. Our workshop will foster a multidisciplinary discussion about the harms and risks related to the use of AI research advances for military applications. Invited speakers will introduce the audience to the topics of AI capabilities in the military, AI arms races and their risks, challenges in military AI regulations, implications on human rights, global inequality and global security, disarmament advocacy, and ethics; as well as strategies for mitigating these harms and risks. We bring together experts from the fields of AI governance, human rights advocacy, humanitarian disarmament, geopolitics and game theory of arms races, as well as researchers who are or were once involved in military applications of AI, to discuss together challenges, potential strategies, and the role of AI researchers in AI militarization and disarmament.
+<img src="{{ site.logo }}" style="width:300px;vertical-align:middle;padding-right:10px;float:left">  
+
+This workshop aims to bridge the gap between the AI research community and experts in military AI regulations. Given the growing  interest of military agencies in adopting AI technologies, we share raising concerns about associated harms and risks posed with respect to human rights and global security. Our goal is to promote inclusive, multidisciplinary discussion on these challenging questions, working together to identify collective responses to them.
+
+Invited speakers will introduce the audience to the topics of AI capabilities in the military, AI arms races and their risks, challenges in military AI regulations as well as humanitarian implications of emerging military technologies. Multifaceted panel discussions will bring together distinguished experts from the fields of AI, governance, humanitarian disarmament, game theory, as well as military experts to discuss together challenges, potential mitigation strategies, and the role of AI researchers in AI militarization and disarmament.
 
 <br>
-<br>
-
-Panel discussions will feature experts with different backgrounds addressing challenging questions about the risks of AI in the military. Facilitated roundtable discussions will allow participants to engage into a direct conversation with invited experts and brainstorm together on a particular topic or question. We believe that this event will provide a unique opportunity for AI researchers to learn about the risks of military AI and their role in mitigating them, and to engage into a meaningful discussion with leading experts in the field.
 
 ---
 
