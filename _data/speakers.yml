@@ -9,7 +9,9 @@
   bio: "Yoshua Bengio is Full Professor at Université de Montréal, and the Founder and Scientific Director of Mila - Quebec AI Institute. He co-directs the CIFAR Learning in Machines & Brains program as Senior Fellow and acts as Scientific Director of IVADO. He received a Turing Award for his work in deep learning and is the computer scientist with the highest h-index. He is a Fellow of both the Royal Society of London and Canada, Knight of the Legion of Honor of France, Officer of the Order of Canada, Member of the UN's Scientific Advisory Board for Independent Advice on Breakthroughs in Science and Technology since 2023 and a Canada CIFAR AI Chair. He chairs the International Scientific Report on the Safety of Advanced AI."
   photo: yoshua.png
   alttext: Dr. Yoshua Bengio
-  time: "09:10"
+  time: 
+  - "09:10"
+  - "11:15"
   session: "dec2"
   tags:
     - name: Website
@@ -27,8 +29,12 @@
   alttext: Dr. Branka Marijan
   title: "TBD"
   abstract: "TBD"
-  time: "10:15"
-  session: "dec2"
+  time: 
+    - "10:15"
+    - "10:45"
+  session: 
+    - "dec2"
+    - "dec3"
   tags:
     - name: Website
       link: https://www.ploughshares.ca/author/branka-marijan
@@ -46,7 +52,9 @@
   alttext: Sarah Grand-Clément
   title: "Artificial Intelligence Beyond Weapons: Application and Impact of AI in the Military Domain"
   abstract: "Within the United Nations, the application of artificial intelligence (AI) in the military domain has, to-date, primarily been discussed in the context of the United Nations Group of Governmental Experts (GGE) on emerging technologies in the area of lethal autonomous weapons systems (LAWS). However, the application of AI within the military domain extends beyond the issue of LAWS as well as beyond applications relating to the use of force and the narrow tasks of target selection and target engagement within the targeting process. This talk will explore the current and near-future AI capabilities that may be applied in the military domain, beyond weapons. It will also examine the strengths and limitations regarding the application of AI to these military tasks, and raise key issues for consideration around the application of AI to the military domain."
-  time: "09:30"
+  time: 
+    - "09:30"
+    - "11:15"
   session: "dec2"
   tags:
     - name: Website
@@ -70,6 +78,9 @@
   Elina was also formerly with the Brookings Institution's Project on U.S. Relations with the Islamic World."
   photo: Noor_Elina_Crop.png
   alttext: Dr. Elina Noor
+  time: 
+    - "11:15"
+  session: "dec2"
   tags:
     - name: Website
       link: https://www.asiapacific.ca/about-us/distinguished-fellows/elina-noor
@@ -80,6 +91,9 @@
   bio: "Wanda Muñoz is an international consultant with more than 20 years of experience on humanitarian disarmament and a member of the Latin American Hub of the Feminist Artificial Intelligence Research Network. She has worked with international NGO and United Nations organizations in Latin America, Africa, Europe and Southeast Asia. She has he worked and published on the ethical, legal and humanitarian risks of autonomous weapons systems for UNESCO, MILA, the ICRC and others. As an independent expert appointed by the Ministry of Foreign Affairs of Mexico, she contributed her experience on policies and programs on gender equality, diversity and human rights to the Global Alliance on Artificial Intelligence. She is a member of UNESCO's Women for Ethics in AI Network and has co-organised multiple regional and international conferences, workshops and panels with UNESCO, UNFPA, UNOPS and others across the globe on different aspects of AI, humanitarian disarmament and assistance to victims of war."
   photo: wanda.png
   alttext: Wanda Muñoz
+  time: 
+    - "11:15"
+  session: "dec2"
   tags:
     - name: Website
       link: https://aplusalliance.org/member/wanda-munoz/
@@ -111,7 +125,9 @@
   alttext: Jonathan Horowitz
   title: "TBD"
   abstract: "TBD"
-  time: "09:45"
+  time: 
+    - "09:45"
+    - "14:15"
   session: "dec3"
   tags:
     - name: Website
@@ -126,6 +142,9 @@
   bio: "Vanina's research focus is in the area of knowledge representation and reasoning KR&R (a subdiscipline of AI), with a focus on the formalization of knowledge dynamics, the management of inconsistent and uncertainty information and on the study of the ethical and social impact on the development and use of systems based on Artificial Intelligence. She is currently a tenured scientist at the department of Logic and Reasoning at the IIIA-CSIC."
   photo: vanina.png
   alttext: Dr. Maria Vanina Martinez
+  time: 
+    - "10:45"
+  session: "dec3"
   tags:
     - name: Website
       link: https://www.iiia.csic.es/~vmartinez/
@@ -138,6 +157,9 @@
   bio: "Paul Biggar leads Tech for Palestine, a collaboration of tech projects advocating for Palestine. At its core, Tech for Palestine is an incubator to start and support projects for Palestine with mentorship, tech volunteers, marketing support, and connections to the broad Palestine advocacy community. He previously founded tech startups Darklang and CircleCI, as well as a Y Combinator-backed startup. He graduated with a PhD in Computer Science from Trinity College Dublin in 2010."
   photo: paul-biggar.png
   alttext: Paul Biggar
+  time: 
+    - "14:15"
+  session: "dec3"
   tags:
     - name: Website
       link: https://techforpalestine.org/
@@ -152,6 +174,9 @@
   bio: "Laura Nolan is a software engineer in Dublin, Ireland and a volunteer with the Stop Killer Robots coalition. She worked at Google for nine years as a staff site reliability engineer. In 2018, she walked out over Google's involvement in Project Maven, a US military project to use AI to analyze drone surveillance footage."
   photo: laura.png
   alttext: Laura Nolan
+  time:
+    - "14:15"
+  session: "dec3"
   tags:
     - name: Website
       link: https://2022.internethealthreport.org/story/say-no-to-killer-robots-laura-nolan/
@@ -198,6 +223,9 @@
   bio: "Aaron Luttman is a researcher at Pacific Northwest National Laboratory – a multi-mission US Department of Energy R&D facility – where he focuses on bringing artificial intelligence and other emerging technologies to US national security missions. A mathematician by training, he has published over 40 journal articles on pure and applied mathematics and given over 100 research presentations, including as a Society of Industrial and Applied Mathematics Visiting Lecturer and a Mathematical Association of America Distinguished Lecturer. Dr. Luttman’s primary technical focus is on AI Assurance, including safety, security, robustness, and vulnerabilities of AI models. He served as a co-organizer of the US National Academies workshop “AI and Justified Confidence,” designed to assess the challenges of bringing AI to Army command and control, and he is also on the faculty at Montana State University, where he teaches “Data Science for National Security.”"
   photo: Luttman_Aaron-5_1.jpeg
   alttext: Aaron Luttman
+  time: 
+    - "10:45"
+  session: "dec3"
   tags:
     - name: Website
       link: https://www.pnnl.gov/people/aaron-luttman
@@ -213,6 +241,9 @@
   bio: "Andrew W. Reddie is the founder of the Berkeley Risk and Security Lab (BRSL). His research at the intersection of technology, politics, and security examines how emerging military capabilities shape international order—with a focus on nuclear weapons policy, cybersecurity, AI governance, and innovation. He is also a pioneer of the use of wargaming methods in both classroom and experimental settings. Andrew serves in faculty leadership roles at UC Berkeley's Center for Security in Politics, the Berkeley APEC Study Center, and UC-wide Disaster Resilience Network. He is also an affiliate of UC Berkeley's Institute of International Studies and the University of California's Institute on Global Conflict and Cooperation. Andrew received his B.A. and M.A. degrees from the University of California, Berkeley, an M.Phil. in International Relations from Oxford University and his Ph.D. from the University of California, Berkeley in 2019."
   photo: reddie.jpg
   alttext: Prof. Andrew W. Reddie
+  time: 
+    - "10:45"
+  session: "dec3"
   tags:
     - name: Website
       link: https://gspp.berkeley.edu/research-and-impact/faculty/andrew-reddie
@@ -225,21 +256,13 @@
   bio: "Lode Dewaegheneire's field of research is Autonomous Weapon Systems, more particularly as military advisor with Mines Action Canada and military and parliamentarian outreach consultant with the Campaign to Stop Killer Robots. Previously he was focusing on transparency in disarmament and its impact on the implementation of disarmament and arms control treaties. Other fields of research are (EU) dual-use export control regime and the Arms Trade Treaty (ATT). Dewaegheneire has been working in humanitarian disarmament for many years and was Coordinator for Article 7 Reporting in both the Anti-personal Mine Ban Convention and the Convention on Cluster Munitions. He also worked for three years in the Verification Division of the OPCW where he was responsible for the yearly Verification Implementation Report."
   photo: lode-new2.jpeg
   alttext: Lode Dewaegheneire
+  time: 
+    - "11:15"
+  session: "dec2"
   tags:
     - name: Website
       link: https://www.forumarmstrade.org/lode-dewaegheneire.html
   skip: False
-- fullname: TBD
-  affiliations: 
-  - International Committee of the Red Cross (ICRC)
-  position: TBD
-  bio: "TBD"
-  # photo: lode-new2.png
-  # alttext: TBD
-  tags:
-    - name: Website
-      link: https://www.icrc.org/en
-  skip: True
 
 
 
