@@ -42,8 +42,6 @@ Online participants will get access to a Crowdcast stream and a dedicated Slack 
 
 {% include speaker-gallery.html %}
 
-### ... more speakers to be announced soon!
-
 ---
 
 <!-- # Our Sponsors -->
