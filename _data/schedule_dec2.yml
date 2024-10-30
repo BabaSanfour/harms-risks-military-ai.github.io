@@ -8,10 +8,10 @@
 - name: "Welcome address"
   time_start: "09:10"
   time_end: "09:30"
-- name: "Keynote talk"
+- name: "Keynote talk (in-person)"
   time_start: "09:30"
   time_end: "10:15"
-- name: "Keynote talk"
+- name: "Keynote talk (in-person)"
   time_start: "10:15"
   time_end: "11:00"
 - name: Coffee break
@@ -24,7 +24,7 @@
 - name: Lunch break
   time_start: "12:30"
   time_end: "14:00"
-- name: "Keynote talk"
+- name: "Keynote talk (in-person)"
   time_start: "14:00"
   time_end: "14:45"
 - name: "Contributed talk 1 (in-person)"

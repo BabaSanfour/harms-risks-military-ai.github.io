@@ -1,10 +1,10 @@
 - name: Registration
   time_start: "08:30"
   time_end: "09:00"
-- name: Keynote talk
+- name: Keynote talk (in-person)
   time_start: "09:00"
   time_end: "09:45"
-- name: "Keynote talk"
+- name: "Keynote talk (in-person)"
   time_start: "09:45"
   time_end: "10:30"
 - name: "Coffee break"
@@ -17,7 +17,7 @@
 - name: "Lunch break"
   time_start: "12:00"
   time_end: "13:30"
-- name: "Keynote talk"
+- name: "Keynote talk (virtual)"
   time_start: "13:30"
   time_end: "14:15"
 - name: "Panel discussion"
