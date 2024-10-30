@@ -1,5 +1,5 @@
 ---
-title: Speakers and Panelists
+title: Keynote Speakers and Panelists
 layout: page-floatbutton
 permalink: /speakers
 ---
@@ -13,5 +13,3 @@ permalink: /speakers
         {% include speaker-card.html %}
       {% endif %}
 {% endfor %}
-
-### ... more speakers to be announced soon!

@@ -39,7 +39,7 @@ Online participants will get access to a Crowdcast stream and a dedicated Slack 
 
 ---
 
-# Our Speakers and Panelists
+# Our Keynote Speakers and Panelists
 
 {% include speaker-gallery.html %}
 
