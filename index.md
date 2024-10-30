@@ -1,11 +1,11 @@
 ---
 layout: page-floatbutton
 title: Harms and Risks of AI in the Military
-subtitle: A cross-disciplinary workshop fostering an open and inclusive discussion on the harms and risks of using AI for military purposes
+subtitle: A cross-disciplinary workshop fostering an open and inclusive discussion on the challenges posed by AI applications for military purposes
 toc: false
 ---
 
-Save the date! Join us **in person** or **virtually** on **Dec 2-3** at **Mila - Quebec AI Institute, Montreal**. Registration is not open yet, please follow us on [Twitter](https://twitter.com/HarmsRisksAIM) for announcements. You can still submit an abstract after reading the [instructions](https://www.harms-risks-ai-military.org/submission.html) by clicking on the button at the bottom right. 
+Registration is open! Join us **in person** or **virtually** on **Dec 2-3** at **Mila - Quebec AI Institute, Montreal**.
 
 {% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
 
@@ -16,7 +16,12 @@ Save the date! Join us **in person** or **virtually** on **Dec 2-3** at **Mila -
 # Summary
 
 <img src="{{ site.logo }}" style="width:240px;vertical-align:middle;padding-right:30px;padding-bottom:10px;float:left">
-The growing interest of military agencies in adopting AI technologies raises concerns about the harms and risks posed by such AI applications with respect to safety, human rights, marginalized communities, conflict escalations and global security. In this workshop, we aim to bridge the gap between the AI research community and experts in military AI regulations. Our workshop will foster a multidisciplinary discussion about the harms and risks related to the use of AI research advances for military applications. Invited speakers will introduce the audience to the topics of AI capabilities in the military, AI arms races and their risks, challenges in military AI regulations, implications on human rights, global inequality and global security, disarmament advocacy, and ethics; as well as strategies for mitigating these harms and risks. We bring together experts from the fields of AI governance, human rights advocacy, humanitarian disarmament, geopolitics and game theory of arms races, as well as researchers who are or were once involved in military applications of AI, to discuss together challenges, potential strategies, and the role of AI researchers in AI militarization and disarmament.
+
+This workshop aims to bridge the gap between the AI research community and experts in military AI regulations. Given the growing  interest of military agencies in adopting AI technologies, we share raising concerns about associated harms and risks posed with respect to human rights and global security. Our goal is to promote an inclusive and multidisciplinary discussion on these challenging questions, working together to identify collective responses to them. 
+
+<br>
+<br>
+<br>
 
 ---
 
@@ -30,15 +35,13 @@ In-person at [Mila - Quebec AI Institute](https://mila.quebec/) in Montreal,
 
 **6650 Rue Saint-Urbain, Montréal, QC H2S 3H1** - Agora hall.
 
-Hybrid participation format will be announced soon.
+Online participants will get access to a Crowdcast stream and a dedicated Slack workspace.
 
 ---
 
 # Our Speakers and Panelists
 
 {% include speaker-gallery.html %}
-
-### ... more speakers to be announced soon!
 
 ---
 
@@ -47,6 +50,10 @@ Hybrid participation format will be announced soon.
 <!-- {% include sponsor-gallery.html %} -->
 
 ---
+
+# Accessibility and ticket waivers
+We are committed to making this workshop accessible to everyone. The venue offers wheelchair access and a quiet space for those who need a sensory break. In the registration form, please share any additional requests that would help us support your participation in the event.
+To further support inclusivity, we offer a limited number of ticket waivers for individuals who may face financial barriers. If a waiver would make your participation possible, please send us an email to`{{ site.email }}`, and we will do our best to accommodate your request.
 
 # Contact
 If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`. We encourage you to follow us on [Twitter](https://twitter.com/HarmsRisksAIM) for announcements.
