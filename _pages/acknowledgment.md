@@ -1,11 +1,11 @@
 ---
 layout: page-floatbutton
-title: Reviewers
-permalink: /reviewers
+title: Acknowledgment
+permalink: /acknowledgment
 ---
 
 
-We would like to express our sincere gratitude to the following individuals for their invaluable contributions as reviewers for the workshop short abstracts.
+We would like to express our sincere gratitude to the following individuals for their invaluable contributions for the workshop.
 
 # Reviewers List (sorted in alphabetical order by their names):
 
