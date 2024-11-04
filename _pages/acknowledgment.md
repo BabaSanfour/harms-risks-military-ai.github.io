@@ -1,6 +1,6 @@
 ---
 layout: page-floatbutton
-title: Acknowledgment
+title: Acknowledgments
 permalink: /acknowledgment
 ---
 
