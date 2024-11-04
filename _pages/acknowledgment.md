@@ -36,7 +36,6 @@ We would like to express our sincere gratitude to the following individuals for 
 - **Selim Kuzucu** – Max-Planck Institute for Informatics, Saarland Informatics Campus
 - **Simone Robutti** – Factory Mutual Insurance Company
 - **Sonia Fereidooni** – University of Cambridge
-- **Sophie Xhonneux** – Montreal Institute for Learning Algorithms, University of Montreal
 - **Timothy Nest** – Montreal Institute for Learning Algorithms, University of Montreal
 - **Toluwani Aremu** – Mohamed bin Zayed University of Artificial Intelligence
 - **Tom Marty** – Montreal Institute for Learning Algorithms, University of Montreal
