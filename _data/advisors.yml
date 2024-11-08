@@ -21,3 +21,15 @@
   linkedin: "none"
   website: "https://www.ajungmoon.com/"
   twitter: "none"
+
+- affiliation: "Mila, Université de Montréal, CIFAR"
+  bio: "Gauthier Gidel is a Canada CIFAR AI Chair, a core member of Mila, and an assistant professor at the Department of Computer Science and Operations Research (DIRO) at Université de Montréal. His research focuses on generative modelling and multi-objective learning, such as alignment and adversarial robustness. He's well known for his work on variational inequality for machine learning; including theoretical analyses of GANs and introducing the extragradient method to the deep learning community. Gauthier co-organized a popular series of workshops on smooth games at NeurIPS and co-created and co-organized the first three iterations of the blog post track at ICLR."
+  committee: General Committee
+  fullname: "Gauthier Gidel"
+  photo: gauthier.png
+  pronouns: "He/Him"
+  alttext: "Gauthier Gidel"
+  linkedin: "none"
+  email: "none"
+  website: "https://gauthiergidel.github.io/"
+  twitter: "none"
