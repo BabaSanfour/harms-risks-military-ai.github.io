@@ -214,6 +214,21 @@
       link: https://2022.internethealthreport.org/story/say-no-to-killer-robots-laura-nolan/
   skip: False
 
+- fullname: Jakob Foerster 
+  affiliations: 
+  - University of Oxford
+  position: Associate Professor
+  bio: "Prof Jakob Foerster leads the Foerster Lab for AI Research at the Department of Engineering Science at the University of Oxford. During his PhD at Oxford, he helped bring deep multi-agent reinforcement learning to the forefront of AI research and spent time at Google Brain, OpenAI, and DeepMind. After his PhD he worked as a (Senior) Research Scientist at Facebook AI Research in California, where he developed the zero-shot coordination problem setting, a crucial step towards safe human-AI coordination. He was awarded a prestigious CIFAR AI chair in 2019 and the ERC Starter Grant in 2023. More recently he was awarded the JPMC AI Research Award for his work on AI in finance and the Amazon Research Award for his work on Large Language models. His past work addresses how AI agents can learn to cooperate, coordinate, and communicate with other agents, including humans. Currently the lab is focused on developing safe and scalable machine learning methods that combine large scale pre-training with RL and search, as well as the foundations of meta-and multi-agent learning. As of September 2024 Prof Foerster returned to FAIR and Meta AI in a part time position to help build out a new team investigating multi-agent approaches to universal intelligence."
+  photo: jakob.png
+  alttext: Jakob Foerster
+  time:
+    - "14:15"
+  session: "dec3"
+  tags:
+    - name: Website
+      link: https://www.jakobfoerster.com/
+  skip: False
+
 
 - fullname: Jacquelyn Schneider 
   affiliations: 
