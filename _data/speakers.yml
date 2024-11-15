@@ -54,8 +54,10 @@
   abstract: "Within the United Nations, the application of artificial intelligence (AI) in the military domain has, to-date, primarily been discussed in the context of the United Nations Group of Governmental Experts (GGE) on emerging technologies in the area of lethal autonomous weapons systems (LAWS). However, the application of AI within the military domain extends beyond the issue of LAWS as well as beyond applications relating to the use of force and the narrow tasks of target selection and target engagement within the targeting process. This talk will explore the current and near-future AI capabilities that may be applied in the military domain, beyond weapons. It will also examine the strengths and limitations regarding the application of AI to these military tasks, and raise key issues for consideration around the application of AI to the military domain."
   time: 
     - "09:30"
-    - "11:15"
-  session: "dec2"
+    - "10:45"
+  session: 
+    - "dec2"
+    - "dec3"
   tags:
     - name: Website
       link: https://unidir.org/people/sarah-grand-clement/
