@@ -88,6 +88,21 @@
       link: https://www.asiapacific.ca/about-us/distinguished-fellows/elina-noor
   skip: False
 
+- fullname: Jessica Dorsey
+  affiliations: 
+  - Utrecht University School of Law
+  position: Assistant professor of international law
+  bio: "Jessica is an assistant professor of international law at Utrecht University School of Law, with a focus on IHL and human rights. She is an Expert at the GC REAIM as well as Director of the Realities of Algorithmic Warfare project. Jessica was recently a keynote speaker at the Contestations AI conference in Helsinki. Her current research explores the legitimacy of military operations in light of increasing autonomy in warfare, and she recently wrote a piece for OpinioJuris about the topic."
+  photo: jessica.png
+  alttext: Jessica Dorsey
+  time: 
+    - "11:15"
+  session: "dec2"
+  tags:
+    - name: Website
+      link: https://hcss.nl/expert/jessica-dorsey/
+  skip: False
+
 - fullname: Wanda Muñoz
   position: Member of Feminist AI Research Network
   bio: "Wanda Muñoz is an international consultant with more than 20 years of experience on humanitarian disarmament and a member of the Latin American Hub of the Feminist Artificial Intelligence Research Network. She has worked with international NGO and United Nations organizations in Latin America, Africa, Europe and Southeast Asia. She has he worked and published on the ethical, legal and humanitarian risks of autonomous weapons systems for UNESCO, MILA, the ICRC and others. As an independent expert appointed by the Ministry of Foreign Affairs of Mexico, she contributed her experience on policies and programs on gender equality, diversity and human rights to the Global Alliance on Artificial Intelligence. She is a member of UNESCO's Women for Ethics in AI Network and has co-organised multiple regional and international conferences, workshops and panels with UNESCO, UNFPA, UNOPS and others across the globe on different aspects of AI, humanitarian disarmament and assistance to victims of war."
