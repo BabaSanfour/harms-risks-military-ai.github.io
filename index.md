@@ -57,9 +57,5 @@ We are dedicated to making this workshop accessible by offering wheelchair acces
 
 ---
 
-# Accessibility and ticket waivers
-We are committed to making this workshop accessible to everyone. The venue offers wheelchair access and a quiet space for those who need a sensory break. In the registration form, please share any additional requests that would help us support your participation in the event.
-To further support inclusivity, we offer a limited number of ticket waivers for individuals who may face financial barriers. If a waiver would make your participation possible, please send us an email to`{{ site.email }}`, and we will do our best to accommodate your request.
-
 # Contact
 If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`. We encourage you to follow us on [Twitter](https://twitter.com/HarmsRisksAIM) for announcements.
