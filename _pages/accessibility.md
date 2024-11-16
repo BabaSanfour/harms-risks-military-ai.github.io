@@ -11,4 +11,4 @@ To further support inclusivity, we offer a limited number of ticket waivers for 
 
 # Accessibilité et exonérations de frais
 Nous nous engageons à rendre cette conférence accessible à tous. Le lieu offre un accès en fauteuil roulant ainsi qu’un espace calme pour les personnes ayant besoin d’une pause sensorielle. Dans le formulaire d’inscription, veuillez indiquer toute demande supplémentaire qui pourrait nous aider à faciliter votre participation à l’événement.
-Pour favoriser davantage l’inclusivité, nous offrons un nombre limité d’exonérations de frais pour les personnes rencontrant des obstacles financiers. Si une exonération de frais permettrait votre participation, veuillez nous envoyer un courriel à hraim2024(at)googlegroups(dot)com, et nous ferons de notre mieux pour répondre à votre demande.
+Pour favoriser davantage l’inclusivité, nous offrons un nombre limité d’exonérations de frais pour les personnes rencontrant des obstacles financiers. Si une exonération de frais permettrait votre participation, veuillez nous envoyer un courriel à `{{ site.email }}`, et nous ferons de notre mieux pour répondre à votre demande.
