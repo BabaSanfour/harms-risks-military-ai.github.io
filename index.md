@@ -41,7 +41,7 @@ Online participants will get access to a Crowdcast stream and a dedicated Slack 
 
 # Accessibility and ticket waivers
 
-We are dedicated to making this workshop accessible by offering wheelchair access, a sensory-friendly space, and ticket waivers for those facing financial barriers, with additional accommodations available upon request. Please check the [Accessibility](_pages/accessibility.md) page
+We are dedicated to making this workshop accessible by offering wheelchair access, a sensory-friendly space, and ticket waivers for those facing financial barriers, with additional accommodations available upon request. Please check the [Accessibility](_pages/accessibility.md) page for more details.
 
 ---
 
