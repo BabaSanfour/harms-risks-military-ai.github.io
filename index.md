@@ -22,12 +22,15 @@ This workshop aims to bridge the gap between the AI research community and exper
 <br>
 <br>
 <br>
+<br>
 
 ---
 
 # When
 
 December 2nd and December 3rd 2024.
+
+---
 
 # Where
 
@@ -54,8 +57,6 @@ We are dedicated to making this workshop accessible by offering wheelchair acces
 <!-- # Our Sponsors -->
 
 <!-- {% include sponsor-gallery.html %} -->
-
----
 
 # Contact
 If you have questions, feedback or just want to say hi, please send us an email to `{{ site.email }}`. We encourage you to follow us on [Twitter](https://twitter.com/HarmsRisksAIM) for announcements.
