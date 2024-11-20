@@ -17,14 +17,23 @@
           <p><strong>Short Abstract: </strong>{{ abstract.abstract }}</p>
           <p class="subtitle is-5"><strong>Key Words: </strong>{{ abstract.keywords }}</p>
           {% if abstract.poster %}
-          <a class="tag">Poster</a>
+          {% if abstract.poster_link %}
+            <a href="{{ abstract.poster_link }}" class="tag">Poster</a>
+          {% else %}
+            <a class="tag">Poster</a>
           {% endif %}
+          {% endif %}
+        
           {% if abstract.talk %}
+          {% if abstract.talk_link %}
+            <a href="{{ abstract.talk_link }}" class="tag">Talk</a>
+          {% else %}
             <a class="tag">Talk</a>
+          {% endif %}
           {% endif %}
         </div>
       </div>
-    </div>
-	</div>
+	  </div>
+  </div>
   <div class="column is-one-fifth"></div>
 </div>
