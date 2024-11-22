@@ -11,11 +11,12 @@
 
 
 - title: "Machine Intelligence Cyber-Warfare"
-  authors: "Seth Lazar"
+  authors: "Timothy Dubber, Seth Lazar"
   email: "none"
   abstract: "Cyber warfare is almost certainly the first domain in which fully autonomous machine intelligence combatants will be deployed. This is because cyber warfare occurs in a “constrained” domain, unlike the physical domains of land, air, maritime and space. A Machine Intelligence Cyber Actor (MICA) would not need to be embodied with a comprehensive set of perceptual functions to understand the battlespace. This is because computer network information is already processed in a machine-readable format. Thus, a machine intelligence combatant is already ‘native’ to the cyber domain. In this paper, we first characterise both the incentives to build MICAs and the current state of the art before articulating five key priorities that researchers and practitioners should pursue now to reduce the risk of MICAs causing catastrophic harm."
   keywords: "Military uses of AI; cybersecurity; cyber warfare"
   poster: true
+  poster_link: "/posters/HRAIM_MachineIntelligence_poster.pdf"
   talk: false
 
 - title: "Measuring Free-Form Decision-Making Inconsistency of Language Models in Military Crisis Simulations"
