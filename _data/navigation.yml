@@ -1,11 +1,7 @@
-- name: About
-  link: /about.html
 - name: Keynote Speakers and Panelists
   link: /speakers.html
 - name: Schedule
   link: /schedule.html
-- name: Presenter Instructions
-  link: /presenter-instructions.html
 - name: Abstracts
   link: /#
   dropdown:
@@ -13,10 +9,12 @@
       link: /submission.html
     - name: Accepted Abstracts
       link: /accepted-abstracts.html
-- name: Team
-  link: /team.html
+- name: Presenter Instructions
+  link: /presenter-instructions.html
 - name: Accessibility
   link: /accessibility.html
+- name: Team
+  link: /team.html
 - name: Acknowledgments
   link: /acknowledgment.html
 - name: Code of Conduct
