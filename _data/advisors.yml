@@ -10,17 +10,6 @@
   website: "https://yoshuabengio.org/"
   twitter: "none"
 
-- affiliation: "Mila, McGill University, OBVIA"
-  bio: "AJung Moon is an experimental roboticist. She investigates how robots and AI systems influence the way people move, behave, and make decisions in order to inform how we can design and deploy such autonomous intelligent systems more responsibly. At McGill University, she is the Director of the McGill Responsible Autonomy & Intelligent System Ethics (RAISE) lab. The RAISE lab is an interdisciplinary group that investigates the social and ethical implications of robots and AI systems and explores what it means for engineers to be designing and deploying such systems responsibly for a better technological future. AJung co-organised various workshops and panels at IEEE, ACM, AIES and UN on different aspects of responsible AI and robotics."
-  committee: General Committee
-  email: "none"
-  fullname: "AJung Moon"
-  photo: "ajung.png"
-  pronouns: "She/Her"
-  alttext: "AJung Moon"
-  linkedin: "none"
-  website: "https://www.ajungmoon.com/"
-  twitter: "none"
 
 - affiliation: "Mila, Université de Montréal, CIFAR"
   bio: "Gauthier Gidel is a Canada CIFAR AI Chair, a core member of Mila, and an assistant professor at the Department of Computer Science and Operations Research (DIRO) at Université de Montréal. His research focuses on generative modelling and multi-objective learning, such as alignment and adversarial robustness. He's well known for his work on variational inequality for machine learning; including theoretical analyses of GANs and introducing the extragradient method to the deep learning community. Gauthier co-organized a popular series of workshops on smooth games at NeurIPS and co-created and co-organized the first three iterations of the blog post track at ICLR."
