@@ -33,6 +33,7 @@
   abstract: "The increasing discourse of the use of AI in military applications, from autonomous weapons to surveillance, raises global security concerns, particularly due to the secrecy surrounding these technologies. Uncertainty about AI's role in warfare could fuel an arms race similar to mid-20th century nuclear proliferation. Our research examines NATO member states' willingness to cooperate on military AI, analyzing public policies and statements in official reports and documents with a table. While only 34% of NATO members have specific military AI policies, 88% have national AI strategies, highlighting a broader interest in AI but limited focus on its military use. Future work will explore correlations between military expenditures, R&D investments, and AI policy development."
   keywords: "NATO, policy, military, AI, cybersecurity, digital"
   poster: true
+  poster_link: /posters/HRAIM_Inconsistencies_AI_Strategy_Alignment_NATO.pdf
   talk: false
 
 - title: "AI-Powered Autonomous Weapons Risk Geopolitical Instability and Threaten AI Research"
