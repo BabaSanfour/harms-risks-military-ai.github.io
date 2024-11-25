@@ -1,7 +1,7 @@
 - title: Posters Gallery
   images:
-    - link: /posters/HRAIM_MachineIntelligence_poster.pdf
-      large_link: /posters/HRAIM_MachineIntelligence_poster.pdf
+    - link: /posters/HRAIM_machineIntelligence_poster.png
+      large_link: /posters/HRAIM_machineIntelligence_poster.png
       description: "Machine intelligence cyberwar: evaluating societal risks from military uses of Machine Intelligence Cyber Agents"
       ratio: is-16by9
     - link: /posters/HRAIM_wargaming_poster.pdf
