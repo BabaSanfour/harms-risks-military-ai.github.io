@@ -2,12 +2,16 @@
   images:
     - link: /posters/HRAIM_MachineIntelligence_poster.pdf
       large_link: /posters/HRAIM_MachineIntelligence_poster.pdf
-      description: Machine Intelligence Cyberwar
+      description: "Machine intelligence cyberwar: evaluating societal risks from military uses of Machine Intelligence Cyber Agents"
       ratio: is-16by9
     - link: /posters/HRAIM_wargaming_poster.pdf
       large_link: /posters/HRAIM_wargaming_poster.pdf
       description: "Human vs. Machine: Behavioral Differences between Expert Humans and Large Language Models in Wargame Simulations"
       ratio: is-16by9
+    - link: /posters/HRAIM_LLMWargamingInconsistency_Poster.pdf
+      large_link: /posters/HRAIM_LLMWargamingInconsistency_Poster.pdf
+      ratio: is-2by9
+      description: "Measuring Free-Form Decision-Making Inconsistency of Language Models in Military Crisis Simulations"
     - link: /posters/HRAIM_Inconsistencies_AI_Strategy_Alignment_NATO.pdf
       large_link: /posters/HRAIM_Inconsistencies_AI_Strategy_Alignment_NATO.pdf
       ratio: is-2by9
