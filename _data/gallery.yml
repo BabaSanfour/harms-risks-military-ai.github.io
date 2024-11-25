@@ -4,15 +4,15 @@
       large_link: /posters/HRAIM_machineIntelligence_poster.png
       description: "Machine intelligence cyberwar: evaluating societal risks from military uses of Machine Intelligence Cyber Agents"
       ratio: is-16by9
-    - link: /posters/HRAIM_wargaming_poster.pdf
-      large_link: /posters/HRAIM_wargaming_poster.pdf
+    - link: /posters/HRAIM_wargaming_poster.png
+      large_link: /posters/HRAIM_wargaming_poster.png
       description: "Human vs. Machine: Behavioral Differences between Expert Humans and Large Language Models in Wargame Simulations"
       ratio: is-16by9
-    - link: /posters/HRAIM_LLMWargamingInconsistency_Poster.pdf
-      large_link: /posters/HRAIM_LLMWargamingInconsistency_Poster.pdf
+    - link: /posters/HRAIM_LLMWargamingInconsistency_Poster.png
+      large_link: /posters/HRAIM_LLMWargamingInconsistency_Poster.png
       ratio: is-2by9
       description: "Measuring Free-Form Decision-Making Inconsistency of Language Models in Military Crisis Simulations"
-    - link: /posters/HRAIM_Inconsistencies_AI_Strategy_Alignment_NATO.pdf
-      large_link: /posters/HRAIM_Inconsistencies_AI_Strategy_Alignment_NATO.pdf
+    - link: /posters/HRAIM_Inconsistencies_AI_Strategy_Alignment_NATO.png
+      large_link: /posters/HRAIM_Inconsistencies_AI_Strategy_Alignment_NATO.png
       ratio: is-2by9
       description: Inconsistencies in Artificial Intelligence Strategy Alignment of NATO Member States
