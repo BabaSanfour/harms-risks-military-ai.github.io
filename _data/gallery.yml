@@ -1,3 +1,9 @@
+- title: Video Submissions
+  images:
+    - link: "/posters/DisasterQA.mp4"
+      video_file: "/posters/DisasterQA.mp4"
+      ratio: is-2by9
+
 - title: Posters Gallery
   images:
     - link: /posters/HRAIM_machineIntelligence_poster.png

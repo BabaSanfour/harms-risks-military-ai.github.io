@@ -1,0 +1,6 @@
+<figure class="image {{ include.ratio | default: 'is-16by9' }}">
+    <video class="has-ratio" controls>
+        <source src="{{ include.video | absolute_url }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</figure>

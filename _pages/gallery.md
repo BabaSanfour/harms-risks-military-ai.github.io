@@ -1,7 +1,7 @@
 ---
 layout: page-floatbutton
-title: Posters Gallery
-subtitle:
+title: Submissions Gallery
+subtitle: Video and Poster Submissions
 show_sidebar: false
 gallery: Posters
 permalink: /gallery

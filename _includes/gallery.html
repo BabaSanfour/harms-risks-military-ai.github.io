@@ -1,20 +1,21 @@
 {% if page.gallery %}
-    {% assign galleries=site.data.gallery %}
+    {% assign galleries = site.data.gallery %}
     {% for gallery in galleries %}
         <div class="columns is-multiline">
             <div class="column is-12">
                 <p class="title is-3 has-text-centered">{{ gallery.title }}</p>
             </div>
-            {% for image in gallery.images %}
+            {% for media in gallery.images %}
                 <div class="column is-4-desktop is-6-tablet">
                     <div class="card">
                         <div class="card-image">
-                            {% include image-modal.html ratio="is-16by9" link=image.link large_link=image.large_link %}
-                        </div>
-                        <div class="card-content">
-                            <div class="content">
-                                {{ image.description | markdownify }}
-                            </div>
+                            {% if media.video_file %}
+                                <!-- Video File -->
+                                {% include video-model.html video=media.video_file ratio=media.ratio %}
+                            {% else %}
+                                <!-- Image File -->
+                                {% include image-modal.html ratio="is-16by9" link=media.link large_link=media.large_link %}
+                            {% endif %}
                         </div>
                     </div>
                 </div>
