@@ -1,22 +1,22 @@
 - title: "Understanding Computer Science Students' views of Military (and Military-adjacent) Work"
   authors: "Sahar Abdalla, Alicia Cappello, Mohamed Abdalla, Catherine Stinson"
-  email: "sahar.abdalla@mail.utoronto.ca"
-  abstract: "The increased (potential) adoption of AI by militaries around the world has drawn the attention and raised concerns of both legislators and computer scientists working in industry. However, we do not have a good sense of the views of the field. More specifically,
-  
+  abstract: "The increased (potential) adoption of AI by militaries around the world has drawn the attention and raised concerns of both legislators and computer scientists working in industry. However, we do not have a good sense of the views of the field. More specifically:
+
     Are computer science students seeking jobs concerned about their labour being used for military purposes or used in military contexts?
-    
-    Are they aware of the working relationships between large US technology companies and mlitiaries around the world?
-    
+
+    Are they aware of the working relationships between large US technology companies and militaries around the world?
+
     How does this knowledge (or lack thereof) affect their decision to apply to these companies?
-    
+
     What would it take to make students reconsider working for companies known to apply for military contracts?
-    
+
     We conducted an online survey of computer science students at Canadian universities who are seeking full-time jobs (or recent graduates who have recently obtained their first post-graduation job). Initial results seem to indicate that the majority of students do not particularly privilege the ethics of their labour over other considerations (e.g., remuneration or location). The majority of students were not concerned with their labour being used for military purposes, though this was not the case for all demographic subgroups. For those who were concerned about their labour being used for military purposes, a plurality knew of at least some, if not all, of the military contracts taken by the companies to which they applied. Compared to other ethical concerns (such as environmental impact), students were less concerned by the usage of their work in military contexts (or for military purposes).
 
     Understanding students' views to the above questions is vital for a myriad of roles, be it educators looking to study the effectiveness of ethics courses, industry trying to gauge incoming worker sentiments, or military recruiters attempting to understand possible challenges."
   keywords: "Survey, Opinion Poll, AI Ethics, Student Views, Industry Jobs"
   poster: true
   talk: true
+  OpenReview: "https://openreview.net/pdf?id=yudYgAezXR"
 
 - title: "Balancing Power and Ethics: A Framework for Addressing Human Rights Concerns in Military AI"
   authors: "Mst Rafia Islam, Azmine Toushik Wasi"
@@ -25,6 +25,7 @@
   keywords: "Military AI, Human Rights, AI Ethics, Power and Politics"
   poster: true
   talk: true
+  OpenReview: "https://openreview.net/pdf?id=KjBQumXLqw"
 
 - title: "Human vs. Machine: Behavioral Differences between Expert Humans and Language Models in Wargame Simulations"
   authors: "Max Lamparth, Anthony Corso, Jacob Ganz, Oriana Skylar Mastro, Jacquelyn Schneider, Harold Trinkunas"
@@ -34,3 +35,4 @@
   poster: true
   poster_link: "/posters/HRAIM_wargaming_poster.pdf"
   talk: true
+  OpenReview: "https://openreview.net/pdf?id=ajX4iOz2kh"

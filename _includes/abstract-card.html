@@ -6,7 +6,13 @@
       <div class="card-content">
         <div class="media">
           <div class="media-content">
-            <p class="title is-4"><strong></strong>{{ abstract.title }}</p>
+            <p class="title is-4">
+              <strong>
+                  <a href="{{ abstract.OpenReview }}" target="_blank" rel="noopener noreferrer">
+                      {{ abstract.title }}
+                  </a>
+              </strong>
+            </p>
             <p class="subtitle is-6">{{ abstract.authors }}</p>
           </div>
         </div>
