@@ -126,12 +126,12 @@
   alttext: Prof. Bernard Duhaime
   title: "TBD"
   abstract: "TBD"
-  time: "14:00"
-  session: "dec2"
+  # time: "14:00"
+  # session: "dec2"
   tags:
     - name: Website
       link: https://www.ohchr.org/en/special-procedures/sr-truth-justice-reparation-and-non-recurrence/bernard-duhaime
-  skip: False
+  skip: True
 
 - fullname: Jonathan Horowitz 
   affiliations: 
