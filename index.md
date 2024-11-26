@@ -5,7 +5,7 @@ subtitle: A cross-disciplinary workshop fostering an open and inclusive discussi
 toc: false
 ---
 
-Registration is open! Join us **in person** or **virtually** on **Dec 2-3** at **Mila - Quebec AI Institute, Montreal**.
+Extended registration deadline: **November 29 2024**. Join us **in person** or **virtually** on **Dec 2-3** at **Mila - Quebec AI Institute, Montreal**.
 
 {% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
 
