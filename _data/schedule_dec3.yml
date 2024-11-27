@@ -1,8 +1,5 @@
 - name: Registration
-  time_start: "08:30"
-  time_end: "09:00"
-- name: Keynote talk (in-person)
-  time_start: "09:00"
+  time_start: "09:15"
   time_end: "09:45"
 - name: "Keynote talk (in-person)"
   time_start: "09:45"
