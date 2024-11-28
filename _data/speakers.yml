@@ -153,6 +153,16 @@
       link: https://blogs.icrc.org/law-and-policy/contributor/jonathan-horowitz/
   skip: False
 
+- fullname: Racky Ba
+  affiliations: 
+  - HI Canada
+  position: Director of Philanthropic Development
+  time: 
+    - "15:30"
+  session: 
+    - "dec2"
+  skip: True
+
 
 - fullname: Maria Vanina Martinez 
   affiliations: 
