@@ -119,14 +119,14 @@
   website: "https://sites.google.com/view/marwaelhalabi/"
   twitter: "https://x.com/marwaElhalabi"
   linkedin: "none"
-- affiliation: "Mila, Universit\xE9 de Montr\xE9al"
-  bio: Léna is a 2nd year PhD student supervised by Yoshua Bengio. She is interested in  the applications of AI to help us tackle important societal issues and make our societies better, and her research lies in the intersection of AI and drug discovery. In her free time, she loves playing music.
-  committee: General Committee
-  email: "lena-nehale.ezzine@mila.quebec"
-  fullname: Léna Néhale Ezzine
-  photo: lena.jpeg
-  pronouns: "She/Her/Elle"
-  alttext: "Léna Néhale Ezzine"
-  twitter: "https://x.com/LenaEzzine"
-  linkedin: "none"
-  website: "none"
+# - affiliation: "Mila, Universit\xE9 de Montr\xE9al"
+#   bio: Léna is a 2nd year PhD student supervised by Yoshua Bengio. She is interested in  the applications of AI to help us tackle important societal issues and make our societies better, and her research lies in the intersection of AI and drug discovery. In her free time, she loves playing music.
+#   committee: General Committee
+#   email: "lena-nehale.ezzine@mila.quebec"
+#   fullname: Léna Néhale Ezzine
+#   photo: lena.jpeg
+#   pronouns: "She/Her/Elle"
+#   alttext: "Léna Néhale Ezzine"
+#   twitter: "https://x.com/LenaEzzine"
+#   linkedin: "none"
+#   website: "none"
