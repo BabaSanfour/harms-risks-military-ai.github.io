@@ -1,7 +1,7 @@
 - name: Check-in and breakfast
   time_start: "08:45"
   time_end: "09:15"
-- name: Keynote talk
+- name: Keynote talk (virtual)
   time_start: "09:15"
   time_end: "09:45"
 - name: "Keynote talk (in-person)"
