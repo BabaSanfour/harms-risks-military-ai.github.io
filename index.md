@@ -9,7 +9,7 @@ Thank you for participating in our workshop! The event has concluded, but record
 
 {% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
 
-{% include registration-button.html %}
+{% include watch-recordings-button.html %}
 
 
 
