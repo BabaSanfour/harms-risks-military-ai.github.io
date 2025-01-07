@@ -5,7 +5,7 @@ subtitle: A cross-disciplinary workshop fostering an open and inclusive discussi
 toc: false
 ---
 
-Thank you for participating in our workshop! The event has concluded, but recordings of the sessions will be available online soon. Stay tuned for updates.
+Thank you for participating in our workshop! The event has concluded, and the session recordings are now available online. You can access these recordings and the abstracts using the buttons below.
 
 {% if site.data.settings.talk.isLive %}{% include join-button.html %}{% endif %}
 
