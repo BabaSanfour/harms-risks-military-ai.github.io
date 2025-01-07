@@ -1,8 +1,3 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support documentation.
-
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll site to Pages
 
 on:
@@ -26,9 +21,27 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install dependencies
+      - name: Install build dependencies for Ruby
         run: |
           sudo apt update
+          sudo apt install -y \
+            build-essential \
+            libssl-dev \
+            zlib1g-dev \
+            libreadline-dev \
+            libyaml-dev \
+            libsqlite3-dev \
+            sqlite3 \
+            libxml2-dev \
+            libxslt1-dev \
+            libffi-dev \
+            libgdbm-dev \
+            libncurses5-dev \
+            libncursesw5-dev \
+            libdb-dev
+
+      - name: Install dependencies
+        run: |
           sudo apt install -y rbenv ruby-build
 
       - name: Update ruby-build
